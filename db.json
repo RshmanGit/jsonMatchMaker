@@ -1,0 +1,4587 @@
+[{
+	"__v": 0,
+	"_id": "58cfed96782115b9945761d2",
+	"authKey": "e593ec07105df82f3f2a06ab299bd320",
+	"teamId": "The_Wolf",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9840681313,
+		"name": "Deepti R",
+		"hackerEarthId": "deeptiravishyam@gmail.com",
+		"_id": "58cfed96782115b9945761d3"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58cff311782115b9945761d4",
+	"authKey": "d148677d3f86f60be483a19935a0f360",
+	"teamId": "Rocks",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8428846660,
+		"name": "Sandipto Dutta",
+		"hackerEarthId": "sdutta1709@gmail.com",
+		"_id": "58cff311782115b9945761d5"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d147d7782115b9945761ee",
+	"authKey": "0dc5778af0898aa97276526aa3b6045b",
+	"teamId": "Compsycho2298",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 7550167714,
+		"name": "Gunjan Chourasia",
+		"hackerEarthId": "garima11amu@gmail.com",
+		"_id": "58d147d7782115b9945761ef"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d2616e782115b994576246",
+	"authKey": "80863f72401b48b83299c1ecfe7c15b4",
+	"teamId": "theteamflash",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9944304442,
+		"name": "sreevathsan",
+		"hackerEarthId": "sreevathsan10@gmail.com",
+		"_id": "58d2616e782115b994576247"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d28df3782115b99457628d",
+	"authKey": "3a7ee65b50501ff35386025a892160fb",
+	"teamId": "Shreya634",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 7000246053,
+		"name": "Shreya Acharya",
+		"hackerEarthId": "shreyaacharya205@gmail.com",
+		"_id": "58d28df3782115b99457628e"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d39ab7c70a540951d0fb70",
+	"authKey": "91184373a2c592b04975675b3c7c5fbe",
+	"teamId": "PEN15",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9003089298,
+		"name": "Anirudh Srivatsaa",
+		"hackerEarthId": "anirudhsca@gmail.com",
+		"_id": "58d39ab7c70a540951d0fb71"
+	}]
+}, {
+	"user_count": 1,
+	"teamId": "tanvir",
+	"_id": "58d4ed03d4912d9280881f12",
+	"__v": 0,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8969057745,
+		"name": "Tanvir Singh",
+		"hackerEarthId": "stanvir295@gmail.com",
+		"_id": "58d4ed03d4912d9280881f13"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58c68fb3ad22a59b648ae70a",
+	"authKey": "c56e2c2e5933d8df8223627177b1e14e",
+	"teamId": "FireBlaze",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"_id": "58c68fb3ad22a59b648ae70b",
+		"hackerEarthId": "sanjaythangaraj@gmail.com",
+		"name": "Sanjay",
+		"phone": 9025838892
+	}, {
+		"_id": "58c8b245ad22a59b648ae70e",
+		"hackerEarthId": "nehaunni8@gmail.com",
+		"name": "Neha Unni",
+		"phone": 9791043162
+	}, {
+		"_id": "58c8b334ad22a59b648ae70f",
+		"hackerEarthId": "yash1412@gmail.com",
+		"name": "M Yashwin Swamy",
+		"phone": 9551135386
+	}, {
+		"_id": "58ca58a7c82dc6b59d8892b5",
+		"hackerEarthId": "arsh19batra@gmail.com",
+		"name": "Arsh Batra",
+		"phone": 7397251232
+	}]
+}, {
+	"__v": 4,
+	"_id": "58c908d91b6d05a80bce2e23",
+	"authKey": "6e9dc574f1ac7268fb1f13c56284e26f",
+	"teamId": "Humbleslayers",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "Srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"_id": "58c908d91b6d05a80bce2e24",
+		"hackerEarthId": "01.shouvik@gmail.com",
+		"name": "Shouvik Ghosh",
+		"phone": 9952919054
+	}, {
+		"_id": "58c909831b6d05a80bce2e25",
+		"hackerEarthId": "vishal.a.burman23@gmail.com",
+		"name": "Vishal Burman",
+		"phone": 7762831983
+	}, {
+		"_id": "58c90c1e1b6d05a80bce2e26",
+		"hackerEarthId": "saket.tna@gmail.com",
+		"name": "Saket Sagar",
+		"phone": 8946962863
+	}, {
+		"phone": 9599200763,
+		"name": "Tejasv Sharma",
+		"hackerEarthId": "tejasv2098@outlook.com",
+		"_id": "58ca4e3fc82dc6b59d8892b2"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58ca78d8c82dc6b59d8892b7",
+	"authKey": "d9e74c9a3405aa3345c6b12e965facb7",
+	"teamId": "HalfTheMarauders",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 8428275850,
+		"name": "Harshvardhan Singh Chauhan",
+		"hackerEarthId": "harshsc007@gmail.com",
+		"_id": "58ca78d8c82dc6b59d8892b8"
+	}, {
+		"phone": 8428276103,
+		"name": "Sidhant Nayak",
+		"hackerEarthId": "sidhant.nayak2501@gmail.com",
+		"_id": "58ca79f0c82dc6b59d8892b9"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58ca0c76c82dc6b59d8892a9",
+	"authKey": "b7812fd6c628aecd69087fcc89d312ef",
+	"teamId": "Maniacs",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9176856455,
+		"name": "Parth Ladha",
+		"hackerEarthId": "laddhaparthj@gmail.com",
+		"_id": "58ca0c76c82dc6b59d8892aa"
+	}, {
+		"phone": 8939098819,
+		"name": "Anirudh Agarwal",
+		"hackerEarthId": "A.agarwal2796@gmail.com",
+		"_id": "58ca82acc82dc6b59d8892ba"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58c914221b6d05a80bce2e27",
+	"authKey": "0633c6f4b6a4663b8cf322448a373903",
+	"teamId": "KMZENON",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58cb8d12782115b99457618c",
+		"number": 8122942816,
+		"status": "true",
+		"tid": "7854026422"
+	}, {
+		"_id": "58cb93fd782115b99457618f",
+		"number": 8122942816,
+		"status": "true",
+		"tid": "7854979762"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"_id": "58c914221b6d05a80bce2e28",
+		"hackerEarthId": "kushagra12mangal@gmail.com",
+		"name": "Kushagra Mangal",
+		"phone": 8122942816
+	}, {
+		"phone": 8056028752,
+		"name": "Narayana Suri",
+		"hackerEarthId": "narayanasuri08@gmail.com",
+		"_id": "58cba1fe782115b994576192"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58cbc95e782115b994576194",
+	"authKey": "bdad3029d82209d3f285dd95071224ff",
+	"teamId": "Naruto",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8939340024,
+		"name": "Ashish Malik",
+		"hackerEarthId": "ashishmalik1998@gmail.com",
+		"_id": "58cbc95e782115b994576195"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58cbd49a782115b99457619d",
+	"authKey": "4f3b138b001fd0d44d298f50f637be61",
+	"teamId": "Awesome_coders",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 7550167283,
+		"name": "Ananya Ghosh",
+		"hackerEarthId": "ananyargj@gmail.com",
+		"_id": "58cbd49a782115b99457619e"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58cbd873782115b99457619f",
+	"authKey": "5d8c602ac8133711363d559423eb9ca0",
+	"teamId": "Lancelot",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8012353168,
+		"name": "Siddhaarthan",
+		"hackerEarthId": "a.d.siddhaarthan@gmail.com",
+		"_id": "58cbd873782115b9945761a0"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58cb8824782115b994576187",
+	"authKey": "7f90ecba85a74c36829c7f9a9f3655a1",
+	"teamId": "NtVirus",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58cbdfa8782115b9945761a2",
+		"number": 9099814314,
+		"status": "true",
+		"tid": "7866155850"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"_id": "58cb8824782115b994576188",
+		"hackerEarthId": "gmaharsh@yahoo.com",
+		"name": "Maharsh Gheewala",
+		"phone": 7358087509
+	}, {
+		"phone": 9601525888,
+		"name": "Mohit Karangiya",
+		"hackerEarthId": "mohitkarangiya@gmail.com",
+		"_id": "58cb88b3782115b994576189"
+	}, {
+		"phone": 9566189468,
+		"name": "Deep Patel",
+		"hackerEarthId": "deeppatel1809@gmail.com",
+		"_id": "58cbdf3b782115b9945761a1"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58cbcae4782115b994576198",
+	"authKey": "84603c1198eca5b3ed5d458d5b0ca162",
+	"teamId": "voidstars",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58cbcbf8782115b99457619a",
+		"number": 9331424109,
+		"status": "true",
+		"tid": "7862942574"
+	}],
+	"zone": {
+		"university": "SRM Kattankulathur",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9331424109,
+		"name": "Shivam Mukherjee",
+		"hackerEarthId": "mshivam98@gmail.com",
+		"_id": "58cbcae4782115b994576199"
+	}, {
+		"_id": "58cbd017782115b99457619b",
+		"hackerEarthId": "vijayprasanna66@gmail.com",
+		"name": "N. Vijay Prasanna",
+		"phone": 9176414598
+	}, {
+		"phone": 9087454228,
+		"name": "Ankit Jha",
+		"hackerEarthId": "ankit.vimp15@gmail.com",
+		"_id": "58cbd1bd782115b99457619c"
+	}, {
+		"phone": 9566134769,
+		"name": "Vaibhav Baweja",
+		"hackerEarthId": "vaibhavbwj9@gmail.com",
+		"_id": "58cc40e9782115b9945761b8"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58ccebc0782115b9945761bb",
+	"authKey": "11ed035aea0ba6471f770a9f66027033",
+	"teamId": "Diode",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8332933590,
+		"name": "Veluri Mithun",
+		"hackerEarthId": "velurimithun38@gmail.com",
+		"_id": "58ccebc0782115b9945761bc"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58cbeba5782115b9945761ab",
+	"authKey": "00c907003b8519e6f270a0a66b307478",
+	"teamId": "debuggers",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58cd41bd782115b9945761bf",
+		"number": 7550169755,
+		"status": "true",
+		"tid": "7904023886"
+	}],
+	"zone": {
+		"university": "Srm University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9087443329,
+		"name": "Pawan Dhanwani",
+		"hackerEarthId": "pawandhanwani@gmail.com",
+		"_id": "58cbeba5782115b9945761ac"
+	}, {
+		"phone": 9406369860,
+		"name": "Atri Raha",
+		"hackerEarthId": "atriraha@gmail.com",
+		"_id": "58cbebda782115b9945761ad"
+	}, {
+		"phone": 7550169755,
+		"name": "Arkadeep Basu",
+		"hackerEarthId": "arkadeepbasu2@gmail.com",
+		"_id": "58cbec00782115b9945761ae"
+	}, {
+		"phone": 7550122046,
+		"name": "Mollika Chatterjee",
+		"hackerEarthId": "mollikachttrj1@gmail.com",
+		"_id": "58cd3f00782115b9945761be"
+	}]
+}, {
+	"__v": 5,
+	"_id": "58cd5672782115b9945761c0",
+	"authKey": "bf2869dcaa4323a7cc6a42925c4b87f8",
+	"teamId": "sum_of_a_bit",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58cd5a72782115b9945761c5",
+		"number": 9884209432,
+		"status": "true",
+		"tid": "7908227302"
+	}, {
+		"_id": "58cd5b38782115b9945761c6",
+		"number": 9631079997,
+		"status": "true",
+		"tid": "7908340714"
+	}],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"_id": "58cd5672782115b9945761c1",
+		"hackerEarthId": "adityagupta97.ag@gmail.com",
+		"name": "Aditya Gupta",
+		"phone": 9310030490
+	}, {
+		"phone": 9631079997,
+		"name": "Aditya Choudhary",
+		"hackerEarthId": "adityachoudhary.jsr@gmail.com",
+		"_id": "58cd56d5782115b9945761c2"
+	}, {
+		"_id": "58cd579f782115b9945761c3",
+		"hackerEarthId": "rbhatia4245@gmail.com",
+		"name": "Rishi Bhatia",
+		"phone": 9884209432
+	}, {
+		"phone": 9884206629,
+		"name": "Snehasish Dawn",
+		"hackerEarthId": "snehasishdawn29@gmail.com",
+		"_id": "58cd599c782115b9945761c4"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58ca26bcc82dc6b59d8892ab",
+	"authKey": "c79a8d777ebf4c0ee1d7fd7e92d1236b",
+	"teamId": "X_Caliber",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d1444a782115b9945761ed",
+		"number": 8428258442,
+		"status": "true",
+		"tid": "8008185830"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 8127807034,
+		"name": "Rushil Gupta",
+		"hackerEarthId": "rushil_vinod@srmuniv.edu.in",
+		"_id": "58ca26bcc82dc6b59d8892ac"
+	}, {
+		"phone": 8428253312,
+		"name": "Siddhartha Dhar Choudhury",
+		"hackerEarthId": "sdharchou@gmail.com",
+		"_id": "58ca2735c82dc6b59d8892ad"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58cfc499782115b9945761c9",
+	"authKey": "cafd8d1f84eb418dcfb63a457e58c140",
+	"teamId": "Phantom",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 8850072794,
+		"name": "Shreayan Chaudhary",
+		"hackerEarthId": "shreayan_sameer@srmuniv.edu.in",
+		"_id": "58cfc499782115b9945761ca"
+	}, {
+		"phone": 9619755414,
+		"name": "Siddharth Jain",
+		"hackerEarthId": "sidjain1412@gmail.com",
+		"_id": "58cfc513782115b9945761cb"
+	}, {
+		"phone": 9610402210,
+		"name": "Jai Ujjwal",
+		"hackerEarthId": "mad4jak@gmail.com",
+		"_id": "58cfc54a782115b9945761cc"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58c995e91b6d05a80bce2e31",
+	"authKey": "e6a0f4e6fd85bc9bcfe53f478327735e",
+	"teamId": "ThisIsIt",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58cfe7a1782115b9945761d1",
+		"number": 7550169215,
+		"status": "true",
+		"tid": "7970183850"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"_id": "58c995e91b6d05a80bce2e32",
+		"hackerEarthId": "limburaj65@gmail.com",
+		"name": "Sukh Raj Limbu",
+		"phone": 7550169215
+	}, {
+		"phone": 7306827761,
+		"name": "Rounak Vyas",
+		"hackerEarthId": "itsRon143@gmail.com",
+		"_id": "58ca7630c82dc6b59d8892b6"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58cfd2a0782115b9945761cf",
+	"authKey": "3f57b31402f9f4b95c743640f09bcf8a",
+	"teamId": "TokyoGhoul",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9566190410,
+		"name": "Palani Vigneshwar",
+		"hackerEarthId": "palanivigneshwar_pa@srmuniv.edu.in",
+		"_id": "58cfd2a0782115b9945761d0"
+	}, {
+		"phone": 9884214221,
+		"name": "Aman Srivastava",
+		"hackerEarthId": "aamansrivastava25@gmail.com",
+		"_id": "58d0245d782115b9945761d6"
+	}]
+}, {
+	"__v": 5,
+	"_id": "58c59925ad22a59b648ae708",
+	"authKey": "c2534f5715ffbb10695311603003a184",
+	"teamId": "Code_ex",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d0bcf1782115b9945761d8",
+		"number": 7550169203,
+		"status": "true",
+		"tid": "7984785166"
+	}, {
+		"_id": "58d172eb782115b9945761f9",
+		"number": 7550169203,
+		"status": "true",
+		"tid": "8009685822"
+	}],
+	"zone": {
+		"university": "SRM university kattankulathur Chennai",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"_id": "58c59925ad22a59b648ae709",
+		"hackerEarthId": "abhishek.k1308@gmail.com",
+		"name": "Abhishek Kumar",
+		"phone": 7550169203
+	}, {
+		"phone": 7397258835,
+		"name": "Archit Bansal",
+		"hackerEarthId": "architbansal35@gmail.com",
+		"_id": "58cbc461782115b994576193"
+	}, {
+		"phone": 7600728254,
+		"name": "Abhideep Maity",
+		"hackerEarthId": "abhideepm@gmail.com",
+		"_id": "58d0bc0c782115b9945761d7"
+	}, {
+		"phone": 8939432893,
+		"name": "Abhay khattar",
+		"hackerEarthId": "abhaykhattar2016@gmail.com",
+		"_id": "58d0bf87782115b9945761d9"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d12cb8782115b9945761df",
+	"authKey": "39570ce0bbe19d9e806d018ffee2cc07",
+	"teamId": "ashu_909",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 8939434551,
+		"name": "Ashutosh Ghosh",
+		"hackerEarthId": "ashutoshg909@gmail.com",
+		"_id": "58d12cb8782115b9945761e0"
+	}, {
+		"phone": 7979949724,
+		"name": "Rajeshwari",
+		"hackerEarthId": "mizuhashi05@gmail.com",
+		"_id": "58d12e60782115b9945761e1"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58cbed3a782115b9945761af",
+	"authKey": "7ff6158bc1e1d488bdb037074bf7431c",
+	"teamId": "DED_SEC",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d134ec782115b9945761e2",
+		"number": 9400180003,
+		"status": "true",
+		"tid": "8005359038"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9400180003,
+		"name": "Sanjeev V Siva",
+		"hackerEarthId": "sanjeevsiva17@gmail.com",
+		"_id": "58cbed3a782115b9945761b0"
+	}, {
+		"phone": 8754500988,
+		"name": "Gokul S",
+		"hackerEarthId": "appu.yess@gmail.com",
+		"_id": "58cbeda9782115b9945761b1"
+	}, {
+		"phone": 8939266175,
+		"name": "Supratik Chatterjee",
+		"hackerEarthId": "supratikdevm96@gmail.com",
+		"_id": "58d0df77782115b9945761da"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58cac017c82dc6b59d8892bd",
+	"authKey": "a55557b7c0793d0db9ab19762205ceda",
+	"teamId": "Code_breaker",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d14187782115b9945761e7",
+		"number": 9087860425,
+		"status": "true",
+		"tid": "8007627946"
+	}],
+	"zone": {
+		"university": "SRM UNIVERSITY,CHENNAI",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9087860425,
+		"name": "Priyanshu Goyal",
+		"hackerEarthId": "priyanshu471997@gmail.com",
+		"_id": "58cac017c82dc6b59d8892be"
+	}, {
+		"phone": 9600579390,
+		"name": "kushal chakraborty",
+		"hackerEarthId": "kushaldbs@gmail.com",
+		"_id": "58cac1e5c82dc6b59d8892bf"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d13d7d782115b9945761e3",
+	"authKey": "23399967ec4266d16c88cde9a4291ee2",
+	"teamId": "error404",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8939443855,
+		"name": "Shobhit Raghubanshi",
+		"hackerEarthId": "singh.shobhit007@gmail.com",
+		"_id": "58d13d7d782115b9945761e4"
+	}, {
+		"phone": 9632352105,
+		"name": "Karthik K Jayakumar",
+		"hackerEarthId": "karthikjayakumar5598@gmail.com",
+		"_id": "58d13e9c782115b9945761e5"
+	}, {
+		"phone": 7550167547,
+		"name": "Shardul",
+		"hackerEarthId": "sshardul007@gmail.com",
+		"_id": "58d13f56782115b9945761e6"
+	}, {
+		"phone": 8428249640,
+		"name": "Yash Verma",
+		"hackerEarthId": "yashwork06@gmail.com",
+		"_id": "58d29828782115b9945762b2"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58cb9f08782115b994576190",
+	"authKey": "1b3234cd4ba7f2bb9db99e15a264e81d",
+	"teamId": "Team_coder",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "Srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9566209884,
+		"name": "Pratishtha Soni",
+		"hackerEarthId": "sonipratishtha93@gmail.com",
+		"_id": "58cb9f08782115b994576191"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d143f5782115b9945761eb",
+	"authKey": "f951f6774bd02ffe5a9e0507998ae3de",
+	"teamId": "ayush",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d15203782115b9945761f0",
+		"number": 9968821494,
+		"status": "true",
+		"tid": "8010582846"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9968821494,
+		"name": "Ayush Roy",
+		"hackerEarthId": "ayushroy298@gmail.com",
+		"_id": "58d143f5782115b9945761ec"
+	}]
+}, {
+	"__v": 7,
+	"_id": "58c9831e1b6d05a80bce2e2f",
+	"authKey": "ad0bb2c8ce8ff292b89fde4a19370dc4",
+	"teamId": "Skynet_Ver_2",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d1591a782115b9945761f1",
+		"number": 9566214296,
+		"status": "true",
+		"tid": "8011682914"
+	}, {
+		"_id": "58d15bcc782115b9945761f2",
+		"number": 9566075503,
+		"status": "true",
+		"tid": "8012058302"
+	}, {
+		"_id": "58d15cd1782115b9945761f3",
+		"number": 9566075503,
+		"status": "true",
+		"tid": "8012195658"
+	}],
+	"zone": {
+		"university": "SRM University, Vadapalani.",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9566214296,
+		"name": "Gurkeerat Singh",
+		"hackerEarthId": "gurkeeratsondhi@gmail.com",
+		"_id": "58c9831e1b6d05a80bce2e30"
+	}, {
+		"phone": 9566075503,
+		"name": "Dhanyakumar Baid",
+		"hackerEarthId": "dhanya.baid@protonmail.com",
+		"_id": "58d14281782115b9945761e8"
+	}, {
+		"phone": 7358329780,
+		"name": "Abhinav Upadhyay",
+		"hackerEarthId": "aaaorabhinav@gmail.com",
+		"_id": "58d142a4782115b9945761e9"
+	}, {
+		"phone": 9962419774,
+		"name": "Nikhil Raj",
+		"hackerEarthId": "nikhilraj1997@gmail.com",
+		"_id": "58d142e4782115b9945761ea"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d1219b782115b9945761dd",
+	"authKey": "dd6149bf77964c9a8d0640b06939c08c",
+	"teamId": "team_flash",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM KTR",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9407900443,
+		"name": "Divyansh Agarwal",
+		"hackerEarthId": "divyanshagrawal96@gmail.com",
+		"_id": "58d1219b782115b9945761de"
+	}, {
+		"phone": 8778534638,
+		"name": "Deep Kiran",
+		"hackerEarthId": "chantatideep_cd@srmuniv.edu.in",
+		"_id": "58d16334782115b9945761f4"
+	}, {
+		"phone": 8124626381,
+		"name": "Shadab Qureshi",
+		"hackerEarthId": "qureshishadab90@gmail.com",
+		"_id": "58d163bd782115b9945761f5"
+	}, {
+		"phone": 8124626378,
+		"name": "Abrar Qureshi",
+		"hackerEarthId": "qureshiabrar92@gmail.com",
+		"_id": "58d16413782115b9945761f6"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d20886782115b9945761fe",
+	"authKey": "26ee8ca1efff9d0f98afeb2f798d31c1",
+	"teamId": "CSE_3",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9087425416,
+		"name": "JIshnu s nambiar",
+		"hackerEarthId": "adijinu2010@gmail.com",
+		"_id": "58d20886782115b9945761ff"
+	}, {
+		"phone": 9962734340,
+		"name": "supriya pandey",
+		"hackerEarthId": "suppu.pandey@gmail.com",
+		"_id": "58d20924782115b994576200"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58cad0d6c82dc6b59d8892c4",
+	"authKey": "4d72fac045413d30bf802baae3adfac5",
+	"teamId": "bytes",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9087860305,
+		"name": "Vishal Gupta",
+		"hackerEarthId": "vasuvishal1@gmail.com",
+		"_id": "58cad0d6c82dc6b59d8892c5"
+	}, {
+		"phone": 8056526933,
+		"name": "Rishabh Raj Singh",
+		"hackerEarthId": "raj.rishabhcool01@gmail.com",
+		"_id": "58d21386782115b994576201"
+	}, {
+		"phone": 8148533565,
+		"name": "Vikash Kumar",
+		"hackerEarthId": "vikashlashmi@gmail.com",
+		"_id": "58d21448782115b994576202"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d22ed3782115b994576215",
+	"authKey": "0ccc37a2f7bb0fbe473a7ccb27b34c4c",
+	"teamId": "finite_loop",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 7550173191,
+		"name": "Ujjwal Kulkarni",
+		"hackerEarthId": "ukulkarni1998@gmail.com",
+		"_id": "58d22ed3782115b994576216"
+	}, {
+		"phone": 7550170853,
+		"name": "Yugvir Parhar",
+		"hackerEarthId": "yugvirparhar@gmail.com",
+		"_id": "58d22f60782115b994576217"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d22d02782115b994576211",
+	"authKey": "ac8ffde816cd5335264c9947265fcd5c",
+	"teamId": "crazy_coder",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 7550167595,
+		"name": "Anshul Singh",
+		"hackerEarthId": "anshulsingh247@gmail.com",
+		"_id": "58d22d02782115b994576212"
+	}, {
+		"phone": 8118806734,
+		"name": "Mudit Nagori",
+		"hackerEarthId": "tidum.nagori@reddif.com",
+		"_id": "58d22fdc782115b994576218"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d23280782115b99457621c",
+	"authKey": "b6c60ec54afb667fb3991cd9f57ef68d",
+	"teamId": "Jaffa",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9791006146,
+		"name": "Anjali Dhingra",
+		"hackerEarthId": "anjalidhingra1808@gmail.com",
+		"_id": "58d23280782115b99457621d"
+	}, {
+		"phone": 9791191206,
+		"name": "Harvinder Singh",
+		"hackerEarthId": "harvinder.dua12@gmail.com",
+		"_id": "58d232a5782115b99457621e"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d225c1782115b994576209",
+	"authKey": "5c6da6906e7b1e6a382c88990daa8d20",
+	"teamId": "cash_me_outside_how_about_that",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 8667660547,
+		"name": "Harisriguhan S.",
+		"hackerEarthId": "harisriguhans@gmail.com",
+		"_id": "58d225c1782115b99457620a"
+	}, {
+		"phone": 9840707540,
+		"name": "Vishnu Kumar",
+		"hackerEarthId": "vishnukumarvh10@gmail.com",
+		"_id": "58d2334e782115b99457621f"
+	}, {
+		"phone": 9940659754,
+		"name": "Paramesh Athreya",
+		"hackerEarthId": "parameshathreya@gmail.com",
+		"_id": "58d23365782115b994576220"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d22842782115b99457620b",
+	"authKey": "2617f47971e398101cf27ef352c04231",
+	"teamId": "Nuxul",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9087707372,
+		"name": "Amith Sai",
+		"hackerEarthId": "appusai16@gmail.com",
+		"_id": "58d22842782115b99457620c"
+	}, {
+		"phone": 9710523532,
+		"name": "Jothicharan J.",
+		"hackerEarthId": "jothicharanjothibabu@gmail.com",
+		"_id": "58d233ae782115b994576221"
+	}, {
+		"phone": 7338986918,
+		"name": "Hariharan",
+		"hackerEarthId": "hari.saravanan1998@gmail.com",
+		"_id": "58d233c1782115b994576222"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d22a1a782115b99457620d",
+	"authKey": "506e2af1bf8066e227629809cf3580dc",
+	"teamId": "Shyaal",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 8939288223,
+		"name": "Shusandesh G. C.",
+		"hackerEarthId": "gcshusandesh@gmail.com",
+		"_id": "58d22a1a782115b99457620e"
+	}, {
+		"phone": 7550171567,
+		"name": "Abhass Shirestha",
+		"hackerEarthId": "abhashsthaofficial@outlook.com",
+		"_id": "58d2346a782115b994576223"
+	}, {
+		"phone": 7358228698,
+		"name": "Naresh Bohara",
+		"hackerEarthId": "boharan9@gmail.com",
+		"_id": "58d23484782115b994576224"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58ca8822c82dc6b59d8892bb",
+	"authKey": "20367178542a55f22cfcbadf02185734",
+	"teamId": "lazy_leeches",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 8144025596,
+		"name": "Vedika Parvez",
+		"hackerEarthId": "ved.parvez2@gmail.com",
+		"_id": "58ca8822c82dc6b59d8892bc"
+	}, {
+		"phone": 9940629966,
+		"name": "Abhishek Kalia",
+		"hackerEarthId": "abhishek_kalia@srmuniv.edu.in",
+		"_id": "58d23c78782115b994576225"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d230b1782115b994576219",
+	"authKey": "8ef1a2a2c8d3fbc58ab5b1c4cd30180d",
+	"teamId": "hash_include",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8375083564,
+		"name": "P. Surya",
+		"hackerEarthId": "suryaprabhakar41@gmail.com",
+		"_id": "58d230b1782115b99457621a"
+	}, {
+		"phone": 7550166879,
+		"name": "Harsha P.K.",
+		"hackerEarthId": "harshaprince685@gmail.com",
+		"_id": "58d230d7782115b99457621b"
+	}, {
+		"phone": 9445435406,
+		"name": "Shiva Abhinav",
+		"hackerEarthId": "shivabhinav1999@gmail.com",
+		"_id": "58d23db5782115b994576226"
+	}, {
+		"phone": 7401064533,
+		"name": "R. Abhijith",
+		"hackerEarthId": "abhijith.ragh@gmail.com",
+		"_id": "58d23dda782115b994576227"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d22d4c782115b994576213",
+	"authKey": "8014f8f76c35db9e5e736eb98dbaa485",
+	"teamId": "Alkaida",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9677189928,
+		"name": "Sidhdharth Sivasubaramaniam",
+		"hackerEarthId": "sidhu.n.india@gmail.com",
+		"_id": "58d22d4c782115b994576214"
+	}, {
+		"phone": 8903619760,
+		"name": "Gautham Venkataraman",
+		"hackerEarthId": "gauthsvenkat@yahoo.com",
+		"_id": "58d23ed9782115b99457622a"
+	}, {
+		"phone": 7502505777,
+		"name": "Sivanesh Ashok",
+		"hackerEarthId": "sivaneshashok@gmail.com",
+		"_id": "58d23ef2782115b99457622b"
+	}, {
+		"phone": 7550170269,
+		"name": "S. Raghav Pillai",
+		"hackerEarthId": "raghav.sp98@gmail.com",
+		"_id": "58d23f0f782115b99457622c"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d168aa782115b9945761f7",
+	"authKey": "14662c7c14750094b6cffd477fd20f5d",
+	"teamId": "ANIME_FAN",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 7338947172,
+		"name": "Vishnu Narayanan",
+		"hackerEarthId": "vns5733@gmail.com",
+		"_id": "58d168aa782115b9945761f8"
+	}, {
+		"phone": 7904055348,
+		"name": "Ravi Shankar Kumawat",
+		"hackerEarthId": "raviskumawat20@gmail.com",
+		"_id": "58d24482782115b994576230"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d24297782115b99457622d",
+	"authKey": "fa1f70d873a524e365fc9e839782210e",
+	"teamId": "kumiisawesome",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d259e2782115b99457623d",
+		"number": 8510066000,
+		"status": "true",
+		"tid": "8031658430"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8510066000,
+		"name": "Raghav Ahuja",
+		"hackerEarthId": "ragzy15@gmail.com",
+		"_id": "58d24297782115b99457622e"
+	}, {
+		"phone": 9790702650,
+		"name": "Vidushi Sehgal",
+		"hackerEarthId": "vidu15sehgal@gmail.com",
+		"_id": "58d24320782115b99457622f"
+	}, {
+		"phone": 9176403870,
+		"name": "Nishit Hada",
+		"hackerEarthId": "nishit.hada@gmail.com",
+		"_id": "58d24583782115b994576231"
+	}, {
+		"phone": 9790709931,
+		"name": "Utkarsh Khanna",
+		"hackerEarthId": "utkarsh96khanna@gmail.com",
+		"_id": "58d245e4782115b994576232"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d25284782115b994576237",
+	"authKey": "fc5546c92d13a4e7e666ff4b9aea423f",
+	"teamId": "cutoz",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9790459923,
+		"name": "Shivang Tripathi",
+		"hackerEarthId": "shivang.tripathi.39@gmail.com",
+		"_id": "58d25284782115b994576238"
+	}, {
+		"phone": 9838643999,
+		"name": "Devansh Jain",
+		"hackerEarthId": "dvnsh95@gmail.com",
+		"_id": "58d25317782115b994576239"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d255d7782115b99457623a",
+	"authKey": "f1c0fba5a588ef48adb455e2a98ae28c",
+	"teamId": "begin",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d3dac1c70a540951d0fbbf",
+		"number": 9087514333,
+		"status": "true",
+		"tid": "8079481062"
+	}],
+	"zone": {
+		"university": "Srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9087514333,
+		"name": "Santosh kumar",
+		"hackerEarthId": "coderises@gmail.com",
+		"_id": "58d255d7782115b99457623b"
+	}, {
+		"phone": 8965806490,
+		"name": "Narendra kushwaha",
+		"hackerEarthId": "narendra.kushwaha@gmail.com",
+		"_id": "58d2582e782115b99457623c"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d25a8a782115b99457623e",
+	"authKey": "b80bf067e744f15a9b984a8a72f7162d",
+	"teamId": "VMS_TheTechies",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 8056228029,
+		"name": "Sovith Kothari",
+		"hackerEarthId": "sovithkothari_sureshkumar@srmuniv.edu.in",
+		"_id": "58d25a8a782115b99457623f"
+	}, {
+		"phone": 8428295506,
+		"name": "Mayur Kasliwal",
+		"hackerEarthId": "mayurkasliwal_sanmati@srmuniv.edu.in",
+		"_id": "58d25ad4782115b994576240"
+	}, {
+		"phone": 9789019709,
+		"name": "Vishesh Jain",
+		"hackerEarthId": "vishesh_nirmal@srmuniv.edu.in",
+		"_id": "58d25afc782115b994576241"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58cbe016782115b9945761a3",
+	"authKey": "ad63af82acc7111c946d42bd6ec54ccd",
+	"teamId": "Decoders",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9003397437,
+		"name": "Prabhat Ranjan Singh",
+		"hackerEarthId": "prabhat.singh374@gmail.com",
+		"_id": "58cbe016782115b9945761a4"
+	}, {
+		"_id": "58d25b9e782115b994576242",
+		"hackerEarthId": "karandavey@gmail.com",
+		"name": "Karan Davey",
+		"phone": 9500080068
+	}, {
+		"phone": 8890847807,
+		"name": "Rahul Menaria",
+		"hackerEarthId": "menariarahul24@gmail.com",
+		"_id": "58d25bf1782115b994576243"
+	}, {
+		"_id": "58d25c12782115b994576244",
+		"hackerEarthId": "pankajkundu9@gmail.com",
+		"name": "Pankaj Kundu",
+		"phone": 7206656650
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d22cd5782115b99457620f",
+	"authKey": "ae4d1b212447bf8b8510fd445bf4fe60",
+	"teamId": "code_online",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9952914901,
+		"name": "Ananth Garg",
+		"hackerEarthId": "ananthgarg@gmail.com",
+		"_id": "58d22cd5782115b994576210"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d262b2782115b99457624b",
+	"authKey": "8864e76e3fdfd7a747f434e7d8c22af0",
+	"teamId": "Gypsies",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9702015744,
+		"name": "Saurav Saha",
+		"hackerEarthId": "sauravsaha48@gmail.com",
+		"_id": "58d262b2782115b99457624c"
+	}, {
+		"phone": 9404717669,
+		"name": "Soham Dixit",
+		"hackerEarthId": "sohammalhar@gmail.com",
+		"_id": "58d262ec782115b99457624d"
+	}, {
+		"phone": 7550172151,
+		"name": "Dhairya Agarwal",
+		"hackerEarthId": "dhairyaagarwal55@gmail.com",
+		"_id": "58d26318782115b99457624e"
+	}, {
+		"phone": 9490136346,
+		"name": "Harshith Mohan",
+		"hackerEarthId": "mohanagh@gmail.com",
+		"_id": "58d26342782115b99457624f"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d26c02782115b994576255",
+	"authKey": "dcbcdf666d66f8fbfa6c9e57c0e870c9",
+	"teamId": "noobs",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9962256588,
+		"name": "shantanu",
+		"hackerEarthId": "manumisra@live.com",
+		"_id": "58d26c02782115b994576256"
+	}, {
+		"phone": 9940628414,
+		"name": "pratyush gupta",
+		"hackerEarthId": "pratz.gupta0307@gmail.com",
+		"_id": "58d26cd6782115b994576259"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d27cc1782115b994576270",
+	"authKey": "051e94bcb018b6d99b3e24813ca62d37",
+	"teamId": "Sansar",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "Hindustan University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 8939195323,
+		"name": "Saranya",
+		"hackerEarthId": "saranyadhanushkodi98@gmail.com",
+		"_id": "58d27cc1782115b994576271"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d27d97782115b994576274",
+	"authKey": "66d2ee2dbefd8bcf2235ce0322ca86e3",
+	"teamId": "Jarvis",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8939268446,
+		"name": "kishore kunal",
+		"hackerEarthId": "kishorekunaloct20@gmail.com",
+		"_id": "58d27d97782115b994576275"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d29063782115b994576291",
+	"authKey": "a9dfdc8b57779481bfd21e7ebc8a7a62",
+	"teamId": "crackers",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9952902484,
+		"name": "T.Arunashree",
+		"hackerEarthId": "arunasreereddy006@gmail.com",
+		"_id": "58d29063782115b994576292"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d29137782115b994576294",
+	"authKey": "7e24a3642bbd320a6e0a86f23a5f1054",
+	"teamId": "Krypto",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8334087336,
+		"name": "Sriparna Das",
+		"hackerEarthId": "sriparnadas101@gmail.com",
+		"_id": "58d29137782115b994576295"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d299d4782115b9945762b3",
+	"authKey": "2bb9817688214cbdc4122470862410a1",
+	"teamId": "crazycode",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9958412391,
+		"name": "Saumya Awasthi",
+		"hackerEarthId": "saumya.awasthi2210@gmail.com",
+		"_id": "58d299d4782115b9945762b4"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d29b97782115b9945762b5",
+	"authKey": "5aa75d0fab6fdeb48e983c393981cd6c",
+	"teamId": "moon_",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9871994891,
+		"name": "Shreeja Pal",
+		"hackerEarthId": "bopubomdi@gmail.com",
+		"_id": "58d29b97782115b9945762b6"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3d8c5c70a540951d0fbb8",
+	"authKey": "6239471d968e5d0c99b4aaa57aeea255",
+	"teamId": "A_P_Z",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8939434157,
+		"name": "Apoorv Srivastava",
+		"hackerEarthId": "coolout.srivastava@gmail.com",
+		"_id": "58d3d8c5c70a540951d0fbb9"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3de00c70a540951d0fbc6",
+	"authKey": "fb9f0a3cd6586b99f67182bdc4cb5215",
+	"teamId": "deltaforce01",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM UNIVERSITY",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9566190902,
+		"name": "RAJAT GUPTA",
+		"hackerEarthId": "grajat296@gmail.com",
+		"_id": "58d3de00c70a540951d0fbc7"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d3adb4c70a540951d0fb84",
+	"authKey": "c1c6c91dc732729c77addc929a6c6215",
+	"teamId": "Inovates",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d3e415c70a540951d0fbcf",
+		"number": 9087860771,
+		"status": "true",
+		"tid": "8081304758"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9087860771,
+		"name": "Anshuman Varshney",
+		"hackerEarthId": "aeybee00@gmail.com",
+		"_id": "58d3adb4c70a540951d0fb85"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d4148fc70a540951d0fbf9",
+	"authKey": "864859678d5024c3eb96c85b646c503c",
+	"teamId": "Xterminate",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University kattankulathur chennai",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9952096742,
+		"name": "Kunal Mehrotra",
+		"hackerEarthId": "kunal.007ma@gmail.com",
+		"_id": "58d4148fc70a540951d0fbfa"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d52e13d4912d9280881f1f",
+	"authKey": "b80908c105e0da2d2ac8195609880783",
+	"teamId": "rohan999",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 8939167653,
+		"name": "Rohan Lokesh Sharma",
+		"hackerEarthId": "rhnsharma999@gmail.com",
+		"_id": "58d52e13d4912d9280881f20"
+	}]
+}, {
+	"user_count": 1,
+	"teamId": "App_nand_2",
+	"_id": "58d543f3d4912d9280881f21",
+	"__v": 0,
+	"transaction": [],
+	"zone": {
+		"university": "G.pullareddy engineering college (autonomous)",
+		"state": "Andhra Pradesh"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9440133322,
+		"name": "Suswaram Apoorva",
+		"hackerEarthId": "nandini0698@gmail.com",
+		"_id": "58d543f3d4912d9280881f22"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d553d1d4912d9280881f26",
+	"authKey": "35a5e2746022f2476564d73077c1885d",
+	"teamId": "Starks",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9884201935,
+		"name": "Kaustubh Singh",
+		"hackerEarthId": "kaustubh.singh63@gmail.com",
+		"_id": "58d553d1d4912d9280881f27"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d2a7f3782115b9945762c3",
+	"authKey": "1ab95a4e82b5d2bf9bee17ffe5610701",
+	"teamId": "3coders",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d5588dd4912d9280881f28",
+		"number": 9047843604,
+		"status": "failed",
+		"tid": "201703244166179"
+	}, {
+		"_id": "58d5588ed4912d9280881f29",
+		"number": 9047843604,
+		"status": "true",
+		"tid": "201703244166179"
+	}],
+	"zone": {
+		"university": "Sri Venkateswara College of Engineering",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9791675861,
+		"name": "Mariammal C",
+		"hackerEarthId": "mariammal.cg@gmail.com",
+		"_id": "58d2a7f3782115b9945762c4"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d24f91782115b994576233",
+	"authKey": "805667ca03c08853e5dd786c6a129372",
+	"teamId": "Freaky_Coders",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3ddebc70a540951d0fbc5",
+		"number": 9677166718,
+		"status": "true",
+		"tid": "8079973826"
+	}],
+	"zone": {
+		"university": "SRM Vadapalani",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9677166718,
+		"name": "Hasan",
+		"hackerEarthId": "kohadahasan@gmail.com",
+		"_id": "58d24f91782115b994576234"
+	}, {
+		"phone": 7358189672,
+		"name": "Yash Parekh",
+		"hackerEarthId": "yash9parekh@gmail.com",
+		"_id": "58d264ea782115b994576250"
+	}, {
+		"phone": 8142189550,
+		"name": "D Konda Sai Manish",
+		"hackerEarthId": "deekondamanish@gmail.com",
+		"_id": "58d2654f782115b994576251"
+	}, {
+		"phone": 9437589771,
+		"name": "Nilamadabh Ghosh",
+		"hackerEarthId": "ngdeveloper3434@gmail.com",
+		"_id": "58d26662782115b994576252"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d26f60782115b99457625c",
+	"authKey": "dabb16b681ab91cf45c09e26d0e31f4e",
+	"teamId": "Trojan",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8939336693,
+		"name": "Arnab Ray",
+		"hackerEarthId": "ad733943@gmail.com",
+		"_id": "58d26f60782115b99457625d"
+	}, {
+		"phone": 9087362293,
+		"name": "Rajnish",
+		"hackerEarthId": "rr66520@gmail.com",
+		"_id": "58d26fca782115b994576260"
+	}, {
+		"phone": 8005002777,
+		"name": "Ashish Singh Chauhan",
+		"hackerEarthId": "theevil.ashish@gmail.com",
+		"_id": "58d26fee782115b994576261"
+	}, {
+		"phone": 9092030806,
+		"name": "Ritvik Jain",
+		"hackerEarthId": "ritvikjain2@gmail.com",
+		"_id": "58d27014782115b994576263"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d26fa3782115b99457625e",
+	"authKey": "109b3a1a4f6486697d82b86325149d02",
+	"teamId": "anonymoushackers",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9791036953,
+		"name": "aporva shukla",
+		"hackerEarthId": "aporvashukla_shankar@srmuniv.edu.in",
+		"_id": "58d26fa3782115b99457625f"
+	}, {
+		"phone": 7200081827,
+		"name": "a k gopal",
+		"hackerEarthId": "gopalak1999@gmail.com",
+		"_id": "58d2700b782115b994576262"
+	}, {
+		"phone": 7016110266,
+		"name": "harsh berry",
+		"hackerEarthId": "harshberry_pawan@srmuniv.edu.in",
+		"_id": "58d27057782115b994576264"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d27324782115b994576267",
+	"authKey": "5cc5f82c720103ae9a364e54625f97d4",
+	"teamId": "whitewalkers",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9911173377,
+		"name": "vishwakarthik",
+		"hackerEarthId": "rvishwakarthik@gmail.com",
+		"_id": "58d27324782115b994576268"
+	}, {
+		"phone": 9039336052,
+		"name": "hitesh chordia",
+		"hackerEarthId": "hiteshchrd@gmail.com",
+		"_id": "58d27371782115b994576269"
+	}, {
+		"phone": 8124625662,
+		"name": "harsh devyani",
+		"hackerEarthId": "harshdevyani31@gmail.com",
+		"_id": "58d2739c782115b99457626a"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d27555782115b99457626b",
+	"authKey": "9da76538321f8ef298cf59c3b0bf5421",
+	"teamId": "brocode",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d27b83782115b99457626d",
+		"number": 7358331224,
+		"status": "true",
+		"tid": "8039532638"
+	}],
+	"zone": {
+		"university": "Srm University Kattankulathur",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9500078652,
+		"name": "Mohammed Moiz",
+		"hackerEarthId": "mohammedmoiz_mo@srmuniv.edu.in",
+		"_id": "58d27555782115b99457626c"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d26e3f782115b99457625a",
+	"authKey": "15768cff6577d2ee2b27b1ab89442cba",
+	"teamId": "TROY02",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 7235929516,
+		"name": "Vinay Gupta",
+		"hackerEarthId": "vinay00sah@gmail.com",
+		"_id": "58d26e3f782115b99457625b"
+	}, {
+		"phone": 9789820112,
+		"name": "Parichay Jash",
+		"hackerEarthId": "bittu0103@gmail.com",
+		"_id": "58d287e0782115b994576282"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d26215782115b994576248",
+	"authKey": "f5620026b8a3b09517e2eb29be248c0c",
+	"teamId": "kaleidoscope",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM(KTR)",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8124674560,
+		"name": "Shivam Garg",
+		"hackerEarthId": "garg.shivam999@gmail.com",
+		"_id": "58d26215782115b994576249"
+	}, {
+		"phone": 8233813897,
+		"name": "Yadhukrishna S Pai",
+		"hackerEarthId": "yadhuksp@gmail.com",
+		"_id": "58d262a7782115b99457624a"
+	}, {
+		"phone": 9790713934,
+		"name": "Rishabh Goel",
+		"hackerEarthId": "rishabhgoel9797@gmail.com",
+		"_id": "58d27e11782115b994576276"
+	}, {
+		"phone": 9566211823,
+		"name": "Ankit Kishore",
+		"hackerEarthId": "ankitkishore12@gmail.com",
+		"_id": "58d28970782115b994576286"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d28612782115b99457627e",
+	"authKey": "fb460d1da7dde67271992fd0336c394d",
+	"teamId": "Darkeagle",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d289d1782115b994576287",
+		"number": 9003753661,
+		"status": "true",
+		"tid": "8042324794"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9003753661,
+		"name": "Sugam Malviya",
+		"hackerEarthId": "myselfsugam@gmail.com",
+		"_id": "58d28612782115b99457627f"
+	}, {
+		"phone": 8122809775,
+		"name": "Pratap Raj Srivastava",
+		"hackerEarthId": "pratapraj056@gmail.com",
+		"_id": "58d28737782115b994576280"
+	}, {
+		"phone": 9600577805,
+		"name": "Akshat Uppal",
+		"hackerEarthId": "akshatuppal1@gmail.com",
+		"_id": "58d28783782115b994576281"
+	}, {
+		"phone": 8939069492,
+		"name": "Vipanchi",
+		"hackerEarthId": "ch.vipanchi@gmail.com",
+		"_id": "58d2889c782115b994576285"
+	}]
+}, {
+	"__v": 6,
+	"_id": "58ca4f2bc82dc6b59d8892b3",
+	"authKey": "267effdf828894d5271a8c998fc0e3d1",
+	"teamId": "DotStar",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d28ee3782115b99457628f",
+		"number": 9176799718,
+		"status": "true",
+		"tid": "8041993302"
+	}, {
+		"_id": "58d28f6d782115b994576290",
+		"number": 9176799718,
+		"status": "true",
+		"tid": "8043200514"
+	}],
+	"zone": {
+		"university": "Srm University, Kattankulathur campus",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9176799718,
+		"name": "Nishant Pal",
+		"hackerEarthId": "nishantpal77@gmail.com",
+		"_id": "58ca4f2bc82dc6b59d8892b4"
+	}, {
+		"phone": 9176814518,
+		"name": "Anurag Mandal",
+		"hackerEarthId": "snap43218@gmail.com",
+		"_id": "58cacc49c82dc6b59d8892c2"
+	}, {
+		"phone": 9176039610,
+		"name": "Chandrani Halder",
+		"hackerEarthId": "chandranih96@gmail.com",
+		"_id": "58cacce4c82dc6b59d8892c3"
+	}, {
+		"phone": 9791488684,
+		"name": "Rahul Gupta",
+		"hackerEarthId": "iamrahulgupta231@gmail.com",
+		"_id": "58cad0dcc82dc6b59d8892c6"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d29171782115b994576296",
+	"authKey": "2cd12238784e063710c63b9a70bb65a5",
+	"teamId": "catharsis",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "Srm University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8428899007,
+		"name": "suvigya hairiya",
+		"hackerEarthId": "hairiya.suvi@gmail.com",
+		"_id": "58d29171782115b994576297"
+	}, {
+		"phone": 7550173084,
+		"name": "yash tandon",
+		"hackerEarthId": "yashtandon019@gmail.com",
+		"_id": "58d2935d782115b99457629d"
+	}, {
+		"phone": 9087361345,
+		"name": "mumuksh bhargava",
+		"hackerEarthId": "mumuksh.bhargava@gmail.com",
+		"_id": "58d2938f782115b99457629e"
+	}, {
+		"phone": 9794213236,
+		"name": "vishal singh",
+		"hackerEarthId": "vs851998@gmail.com",
+		"_id": "58d2946a782115b9945762a1"
+	}]
+}, {
+	"__v": 8,
+	"_id": "58d27bdf782115b99457626e",
+	"authKey": "3ab2ed99d5e466fa68b3f588a8a96ba9",
+	"teamId": "code_for_fun",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d295da782115b9945762a5",
+		"number": 8130715110,
+		"status": "failed",
+		"tid": "8044585414"
+	}, {
+		"_id": "58d295de782115b9945762a6",
+		"number": 8130715110,
+		"status": "failed",
+		"tid": "8044585414"
+	}, {
+		"_id": "58d295de782115b9945762a7",
+		"number": 8130715110,
+		"status": "failed",
+		"tid": "8044585414"
+	}, {
+		"_id": "58d295de782115b9945762a8",
+		"number": 8130715110,
+		"status": "failed",
+		"tid": "8044585414"
+	}, {
+		"_id": "58d295de782115b9945762a9",
+		"number": 8130715110,
+		"status": "true",
+		"tid": "8044585414"
+	}],
+	"zone": {
+		"university": "SRM university , Kattankulathur",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8860249563,
+		"name": "Gaurav Agartaniya",
+		"hackerEarthId": "nikkuagartaniya@gmail.com",
+		"_id": "58d27bdf782115b99457626f"
+	}, {
+		"phone": 8800486048,
+		"name": "Saransh Agarwal",
+		"hackerEarthId": "saransh808@gmail.com",
+		"_id": "58d29416782115b9945762a0"
+	}, {
+		"phone": 8130715110,
+		"name": "Sagar Saini",
+		"hackerEarthId": "sgr.saini@gmail.com",
+		"_id": "58d294b2782115b9945762a2"
+	}, {
+		"phone": 9911910678,
+		"name": "Rajat Airi",
+		"hackerEarthId": "rajatairi_ra@srmuniv.edu.in",
+		"_id": "58d294de782115b9945762a3"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d29638782115b9945762aa",
+	"authKey": "ab97872c0ecb48c662ae3cbc50534b3d",
+	"teamId": "Clone_real",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9409232993,
+		"name": "Darsh Naik",
+		"hackerEarthId": "naik.darsh729@gmail.com",
+		"_id": "58d29638782115b9945762ab"
+	}, {
+		"phone": 9176261226,
+		"name": "Renish Kumar Kothadiya",
+		"hackerEarthId": "rk080299@gmail.com",
+		"_id": "58d2969b782115b9945762ad"
+	}, {
+		"phone": 9427668387,
+		"name": "Rathod Yashkumar",
+		"hackerEarthId": "yash7121989@hotmail.com",
+		"_id": "58d296c5782115b9945762ae"
+	}, {
+		"phone": 8124602613,
+		"name": "Himanshu Rathod",
+		"hackerEarthId": "himanshu.rathod1998@gmail.com",
+		"_id": "58d296ee782115b9945762af"
+	}]
+}, {
+	"user_count": 1,
+	"teamId": "TEAM_AVENGERS",
+	"_id": "58d2a65e782115b9945762bf",
+	"__v": 0,
+	"transaction": [],
+	"zone": {
+		"university": "G PULLA REDDY ENGINEERING COLLEGE",
+		"state": "Andhra Pradesh"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9642473369,
+		"name": "S K ZAHID BASHA",
+		"hackerEarthId": "zahidij06@gmail.com",
+		"_id": "58d2a65e782115b9945762c0"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d2a797782115b9945762c1",
+	"authKey": "f93a35aa5f62c59c66b75ca3e67fc6de",
+	"teamId": "PIEDPIPER",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "B.M.S.C.E.",
+		"state": "Karnataka"
+	},
+	"payment": {
+		"down": 300,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9742711894,
+		"name": "ANUBHAV CHOUDHARY",
+		"hackerEarthId": "456anubhav@gmail.com",
+		"_id": "58d2a797782115b9945762c2"
+	}, {
+		"_id": "58d2a9b7782115b9945762ca",
+		"hackerEarthId": "shambhu.abhi007@gmail.com",
+		"name": "ABHIJITH S",
+		"phone": 7411653557
+	}]
+}, {
+	"__v": 0,
+	"_id": "58cbcade782115b994576196",
+	"authKey": "49d7c3823983f4d0da6787035a729869",
+	"teamId": "Dnivra",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9819080498,
+		"name": "Arvind Sreenivas",
+		"hackerEarthId": "sreenivasarvind@gmail.com",
+		"_id": "58cbcade782115b994576197"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58c973f31b6d05a80bce2e2d",
+	"authKey": "3bf870c75c5514b8075c674a7b5e10ea",
+	"teamId": "Raging_Bulls",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8778245688,
+		"name": "S.Aadharsh Vaidhiya",
+		"hackerEarthId": "coolhawk97@gmail.com",
+		"_id": "58c973f31b6d05a80bce2e2e"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d2b09e782115b9945762d0",
+	"authKey": "80206250195495397b6ef32e23e05ee8",
+	"teamId": "Coders",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "G.Pulla Reddy Engineering College",
+		"state": "Andhra Pradesh"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9912525036,
+		"name": "Nulu Vamsi Krishna",
+		"hackerEarthId": "gnaneshwarrao2@gmail.com",
+		"_id": "58d2b09e782115b9945762d1"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d2aa32782115b9945762cb",
+	"authKey": "889a2b31231c0f76e1eeb928f51fdef7",
+	"teamId": "TechBinders",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d2b375782115b9945762d4",
+		"number": 9445608113,
+		"status": "true",
+		"tid": "8049187686"
+	}],
+	"zone": {
+		"university": "SRM UNIVERSITY",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9445608113,
+		"name": "MAYANK KHANDELWAL",
+		"hackerEarthId": "mayankkhandelwal187@gmail.com",
+		"_id": "58d2aa32782115b9945762cc"
+	}, {
+		"phone": 8754507434,
+		"name": "RAHUL KEVADIA",
+		"hackerEarthId": "iamkevadiarahul@gmail.com",
+		"_id": "58d2aace782115b9945762cd"
+	}, {
+		"phone": 9790719642,
+		"name": "JENNY SAVANI",
+		"hackerEarthId": "jenny24savani@gmail.com",
+		"_id": "58d2ae0b782115b9945762cf"
+	}, {
+		"phone": 7587067936,
+		"name": "AYUSHI RATHI",
+		"hackerEarthId": "ayushirathi1981@gmail.com",
+		"_id": "58d2b19c782115b9945762d2"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d26ca3782115b994576257",
+	"authKey": "399803a6a6bf35d31c16b0a682ce35a0",
+	"teamId": "Dexter",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8428276003,
+		"name": "Harshit Malhotra",
+		"hackerEarthId": "h.malhotra990@gmail.com",
+		"_id": "58d26ca3782115b994576258"
+	}, {
+		"phone": 8681913538,
+		"name": "Shreyaskar",
+		"hackerEarthId": "shreyaskar.srivastava@outlook.com",
+		"_id": "58d294ff782115b9945762a4"
+	}, {
+		"phone": 9087447380,
+		"name": "Somya Ranjan Sahani",
+		"hackerEarthId": "somyaranjansahani@gmail.com",
+		"_id": "58d2b7ce782115b9945762d5"
+	}, {
+		"phone": 9792919485,
+		"name": "Tushar Jaiswal",
+		"hackerEarthId": "tusharjaiswal_sanjay@srmuniv.edu.in",
+		"_id": "58d2b826782115b9945762d6"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d2c7b7782115b9945762d7",
+	"authKey": "16dcb42d8c90bcd1a7a0cfb12a22ea90",
+	"teamId": "White_Hacker",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 7550166898,
+		"name": "Daniel Varghese George",
+		"hackerEarthId": "dvg199817@yahoo.in",
+		"_id": "58d2c7b7782115b9945762d8"
+	}, {
+		"phone": 9496070289,
+		"name": "Rajeev Ravindran",
+		"hackerEarthId": "rajeevsumalayam@gmail.com",
+		"_id": "58d2c81a782115b9945762d9"
+	}, {
+		"phone": 7558801646,
+		"name": "Prabhu Shankar K",
+		"hackerEarthId": "prabhukaippillil@gmail.com",
+		"_id": "58d2c87d782115b9945762da"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d17fad782115b9945761fc",
+	"authKey": "7b6a3cfa1a9aefb270229c5423095a0d",
+	"teamId": "AlphaBAT69",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d2c9bc782115b9945762db",
+		"number": 9829077521,
+		"status": "true",
+		"tid": "8050834250"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9829077521,
+		"name": "Tanay Toshniwal",
+		"hackerEarthId": "tanaytoshniwal98@gmail.com",
+		"_id": "58d17fad782115b9945761fd"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d30303c70a540951d0fb4b",
+	"authKey": "73e8e895f366da5de3a2bf3187a56dfd",
+	"teamId": "Barcodes",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 7415146948,
+		"name": "Tapan Rai",
+		"hackerEarthId": "raitapan1@gmail.com",
+		"_id": "58d30303c70a540951d0fb4c"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d2a853782115b9945762c6",
+	"authKey": "213f36a7da8b2fdf7771b53229767363",
+	"teamId": "CodeGeekz",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d4f189d4912d9280881f14",
+		"number": 9791051696,
+		"status": "true",
+		"tid": "8106261182"
+	}],
+	"zone": {
+		"university": "SRM UNIVERSITY RAMAPURAM",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9952252007,
+		"name": "Siva surya narayan",
+		"hackerEarthId": "getmymoon@gmail.com",
+		"_id": "58d2a853782115b9945762c7"
+	}, {
+		"phone": 9840313787,
+		"name": "Karthikayen K",
+		"hackerEarthId": "karthikeyan.k97@gmail.com",
+		"_id": "58d327a5c70a540951d0fb4d"
+	}, {
+		"phone": 9791051696,
+		"name": "Venkat Aravind M",
+		"hackerEarthId": "sparklingaravind1997@gmail.com",
+		"_id": "58d328e4c70a540951d0fb4e"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d34907c70a540951d0fb52",
+	"authKey": "16751ede82d29fed40467a8cb73e0f7a",
+	"teamId": "Fnplus",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d42021c70a540951d0fbfe",
+		"number": 9962892900,
+		"status": "true",
+		"tid": "8088377586"
+	}],
+	"zone": {
+		"university": "SRM University, Ramapuram",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9962892900,
+		"name": "Abhishek Uniyal",
+		"hackerEarthId": "arjun.mahishi@gmail.com",
+		"_id": "58d34907c70a540951d0fb53"
+	}, {
+		"phone": 9108287278,
+		"name": "Arjun Mahishi",
+		"hackerEarthId": "abhishekuniyal09@gmail.com",
+		"_id": "58d349a0c70a540951d0fb54"
+	}, {
+		"phone": 9962418361,
+		"name": "Somnath",
+		"hackerEarthId": "somnathfreak007@gmail.com",
+		"_id": "58d34a00c70a540951d0fb55"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d356bac70a540951d0fb57",
+	"authKey": "e756cc64da617349917b781768dc23c6",
+	"teamId": "rockers",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "G PULLAREDDYENGINEERING COLLEGE",
+		"state": "Andhra Pradesh"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9160409895,
+		"name": "m REVANTH",
+		"hackerEarthId": "mullarevanthreddy99@gmail.com",
+		"_id": "58d356bac70a540951d0fb58"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d36de9c70a540951d0fb5b",
+	"authKey": "909fb7bad0fe1e54b071932b79fdbeb1",
+	"teamId": "YT666",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM KTR",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8420470751,
+		"name": "Yash Tantia",
+		"hackerEarthId": "yash.tantia3@gmail.com",
+		"_id": "58d36de9c70a540951d0fb5c"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d32be2c70a540951d0fb4f",
+	"authKey": "53cb5dc625f67b1c53f31b6755cc4bc7",
+	"teamId": "CodeBusters",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3799cc70a540951d0fb63",
+		"number": 9789597677,
+		"status": "true",
+		"tid": "8063982614"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9789597677,
+		"name": "Harsh Didwania",
+		"hackerEarthId": "harsh.didwania@yahoo.com",
+		"_id": "58d32be2c70a540951d0fb50"
+	}, {
+		"phone": 9566244652,
+		"name": "Bharatwaj",
+		"hackerEarthId": "gbharatwaj@yahoo.com",
+		"_id": "58d3450bc70a540951d0fb51"
+	}, {
+		"phone": 8939798932,
+		"name": "Adithya",
+		"hackerEarthId": "adithyatechpro@gmail.com",
+		"_id": "58d354e0c70a540951d0fb56"
+	}, {
+		"phone": 9840216639,
+		"name": "Ganesan santhanam",
+		"hackerEarthId": "ganesan.santhanam96@gmail.com",
+		"_id": "58d377e9c70a540951d0fb62"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d2a95b782115b9945762c8",
+	"authKey": "319e4bf94db0da02626a5c6ee233e700",
+	"teamId": "Diamonds",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 0
+	},
+	"users": [{
+		"phone": 7397419053,
+		"name": "Karishma Agarwal",
+		"hackerEarthId": "agarwalkarishma10@gmail.com",
+		"_id": "58d2a95b782115b9945762c9"
+	}, {
+		"phone": 9003220499,
+		"name": "Archit Bhandari",
+		"hackerEarthId": "architbhandari.ab8@gmail.com",
+		"_id": "58d37a66c70a540951d0fb64"
+	}, {
+		"phone": 7007090470,
+		"name": "Dhruv Srivastava",
+		"hackerEarthId": "dhruvs.s58@gmail.com",
+		"_id": "58d37bedc70a540951d0fb65"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d390d6c70a540951d0fb66",
+	"authKey": "8a4f513d76e1e45c0861165999460028",
+	"teamId": "easyy",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d39589c70a540951d0fb6c",
+		"number": 7708519676,
+		"status": "true",
+		"tid": "8068352190"
+	}],
+	"zone": {
+		"university": "SRM University chennai",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 7708519676,
+		"name": "Siddharth Kulshrestha",
+		"hackerEarthId": "smilewithsiddharth@gmail.com",
+		"_id": "58d390d6c70a540951d0fb67"
+	}, {
+		"phone": 9176044424,
+		"name": "Sumit Nihalani",
+		"hackerEarthId": "nihalanisumit@gmail.com",
+		"_id": "58d3910dc70a540951d0fb68"
+	}, {
+		"phone": 9176033298,
+		"name": "Ayush Verma",
+		"hackerEarthId": "ayushverma111@gmail.com",
+		"_id": "58d394b5c70a540951d0fb69"
+	}, {
+		"phone": 7987199909,
+		"name": "Aman Sharma",
+		"hackerEarthId": "amansharma33.as@gmail.com",
+		"_id": "58d39501c70a540951d0fb6a"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d28814782115b994576283",
+	"authKey": "651a57727d03725c1fd0521a3f82a834",
+	"teamId": "faado_bande",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d399e0c70a540951d0fb6f",
+		"number": 9345111172,
+		"status": "true",
+		"tid": "8068971098"
+	}],
+	"zone": {
+		"university": "HIndustan University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9087537515,
+		"name": "Moazam",
+		"hackerEarthId": "mzm.moazam@gmail.com",
+		"_id": "58d28814782115b994576284"
+	}, {
+		"phone": 9440901009,
+		"name": "Vishnu Vardhan Reddy. P",
+		"hackerEarthId": "vishnu2981997@gmail.com",
+		"_id": "58d28bab782115b99457628c"
+	}, {
+		"phone": 8682842605,
+		"name": "Faheem Ahmad",
+		"hackerEarthId": "ahmadfaheem981@gmail.com",
+		"_id": "58d2a180782115b9945762bb"
+	}, {
+		"phone": 8630646454,
+		"name": "Pratibha Sharma",
+		"hackerEarthId": "superbps26@gmail.com",
+		"_id": "58d2a1b5782115b9945762bc"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d39e48c70a540951d0fb75",
+	"authKey": "8aa873aacb0133773cb92c7c3c60a549",
+	"teamId": "A_to_Z_Coders",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 8017512143,
+		"name": "Achira Pal",
+		"hackerEarthId": "achirapal06@gmail.com",
+		"_id": "58d39e48c70a540951d0fb76"
+	}, {
+		"phone": 9962727329,
+		"name": "Aakanksha Saini",
+		"hackerEarthId": "aakanksha.saini@gmail.com",
+		"_id": "58d39efec70a540951d0fb7a"
+	}, {
+		"phone": 9962819983,
+		"name": "Zoya Yasin",
+		"hackerEarthId": "zoya.yasin@gmail.com",
+		"_id": "58d39f34c70a540951d0fb7b"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d3a061c70a540951d0fb7c",
+	"authKey": "069e0770258417bedc88fa7796d22b01",
+	"teamId": "rockheads",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d3a0cdc70a540951d0fb7e",
+		"number": 9551448729,
+		"status": "true",
+		"tid": "8070079306"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9551448729,
+		"name": "Madhana Gopal Bhavani",
+		"hackerEarthId": "madhanbhavani@gmail.com",
+		"_id": "58d3a061c70a540951d0fb7d"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d39b0ac70a540951d0fb72",
+	"authKey": "f72627c5d03bbcee81ae92c68de3215d",
+	"teamId": "DECODERS",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3a626c70a540951d0fb82",
+		"number": 9345111172,
+		"status": "true",
+		"tid": "8070861266"
+	}],
+	"zone": {
+		"university": "Hindustan University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9345111172,
+		"name": "Amit Pandey",
+		"hackerEarthId": "akamet5707@gmail.com",
+		"_id": "58d39b0ac70a540951d0fb73"
+	}, {
+		"phone": 9094591722,
+		"name": "Himaja Reddy",
+		"hackerEarthId": "himaja97@gmail.com",
+		"_id": "58d39e1bc70a540951d0fb74"
+	}, {
+		"phone": 9790804902,
+		"name": "Rishav Gupta",
+		"hackerEarthId": "rishavguptarsm@gmail.com",
+		"_id": "58d3a380c70a540951d0fb7f"
+	}, {
+		"phone": 7200374830,
+		"name": "Navodit Pan",
+		"hackerEarthId": "akworks01@gmail.com",
+		"_id": "58d3a588c70a540951d0fb81"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d3b4eec70a540951d0fb87",
+	"authKey": "f5684ef88abeb19818f0f036a208587a",
+	"teamId": "charzard",
+	"user_count": 3,
+	"transaction": [],
+	"zone": {
+		"university": "srm university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 8428875448,
+		"name": "antas sinha",
+		"hackerEarthId": "antassinha007@gmail.com",
+		"_id": "58d3b4eec70a540951d0fb88"
+	}, {
+		"phone": 9643702904,
+		"name": "shubham jain",
+		"hackerEarthId": "shubhamjain_satish@srmuniv.edu.in",
+		"_id": "58d3b639c70a540951d0fb89"
+	}, {
+		"phone": 7397467220,
+		"name": "Aditya Dev Tewari",
+		"hackerEarthId": "adityadev_vijay@srmuniv.edu.in",
+		"_id": "58d3b66dc70a540951d0fb8a"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58c93df01b6d05a80bce2e2b",
+	"authKey": "b1da004d303c8cb6a09e21eb32864f2a",
+	"teamId": "The_sapphire",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM UNIVERSITY,KTR CAMPUS",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"_id": "58c93df01b6d05a80bce2e2c",
+		"hackerEarthId": "patnaikdinesh44@gmail.com",
+		"name": "DINESH PATNAIK",
+		"phone": 9968942140
+	}, {
+		"phone": 8334988177,
+		"name": "Aranya Nandi",
+		"hackerEarthId": "nandiaranya18@gmail.com",
+		"_id": "58d39551c70a540951d0fb6b"
+	}, {
+		"phone": 9176267997,
+		"name": "Abhirup Bose",
+		"hackerEarthId": "ababhirupbose21@gmail.com",
+		"_id": "58d3b66ec70a540951d0fb8b"
+	}, {
+		"phone": 8335043387,
+		"name": "Anuvab Biswas",
+		"hackerEarthId": "biswas.anuvab@gmail.com",
+		"_id": "58d3b69bc70a540951d0fb8c"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3b8fbc70a540951d0fb91",
+	"authKey": "e560d450aa91825a6bfea3aae798c6f0",
+	"teamId": "Naman",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8754564064,
+		"name": "Naman Garg",
+		"hackerEarthId": "namangarg.work@gmail.com",
+		"_id": "58d3b8fbc70a540951d0fb92"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d3babdc70a540951d0fb93",
+	"authKey": "18baf2f7dfcd655abd2dec0275d937e3",
+	"teamId": "Shoot_the_bugs",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d3fd4dc70a540951d0fbf1",
+		"number": 9445605004,
+		"status": "true",
+		"tid": "8085520026"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9840750022,
+		"name": "Hari.R",
+		"hackerEarthId": "hari.r.nallan@gmail.com",
+		"_id": "58d3babdc70a540951d0fb94"
+	}, {
+		"phone": 9445605004,
+		"name": "S Sai Pavan",
+		"hackerEarthId": "ssaipavan1998@gmail.com",
+		"_id": "58d3be6bc70a540951d0fb98"
+	}]
+}, {
+	"user_count": 1,
+	"teamId": "Saurav",
+	"_id": "58d3c354c70a540951d0fb99",
+	"__v": 0,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9790618352,
+		"name": "Saurav",
+		"hackerEarthId": "saurav_sa@srmuniv.edu.in",
+		"_id": "58d3c354c70a540951d0fb9a"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d3bcbbc70a540951d0fb95",
+	"authKey": "759f8e2167f2a35067b1aba14f81d9f1",
+	"teamId": "Codebusters",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3c70dc70a540951d0fb9d",
+		"number": 9884177460,
+		"status": "true",
+		"tid": "8076051906"
+	}],
+	"zone": {
+		"university": "Srm Ramapuram",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9884177460,
+		"name": "Shubham Gupta",
+		"hackerEarthId": "shubhamgupta.3949@gmail.com",
+		"_id": "58d3bcbbc70a540951d0fb96"
+	}, {
+		"phone": 7904249376,
+		"name": "Mrinmay Kumar Das",
+		"hackerEarthId": "mrinmaykumardas@gmail.com",
+		"_id": "58d3bd8cc70a540951d0fb97"
+	}, {
+		"phone": 9444232415,
+		"name": "Himanshu Sinha",
+		"hackerEarthId": "sinha.himanshu8697@gmail.com",
+		"_id": "58d3c509c70a540951d0fb9b"
+	}, {
+		"phone": 8778153867,
+		"name": "Manish Kumar Singh",
+		"hackerEarthId": "mks21998@gmail.com",
+		"_id": "58d3c53fc70a540951d0fb9c"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d3cc33c70a540951d0fba2",
+	"authKey": "ec847935e87c4261259b688abe8fbfcd",
+	"teamId": "NP_Complete",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3d319c70a540951d0fbab",
+		"number": 7708548136,
+		"status": "true",
+		"tid": "8077994790"
+	}],
+	"zone": {
+		"university": "Sri Venkateswara College Of Engineering",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 7708548136,
+		"name": "S.Arunachalam",
+		"hackerEarthId": "s.arunachalamsiva24@gmail.com",
+		"_id": "58d3cc33c70a540951d0fba3"
+	}, {
+		"phone": 9962241962,
+		"name": "Deepak Vishal",
+		"hackerEarthId": "dpkvshl@gmail.com",
+		"_id": "58d3ce9fc70a540951d0fba4"
+	}, {
+		"phone": 9787771888,
+		"name": "Arvind.S",
+		"hackerEarthId": "vickyarvind210@gmail.com",
+		"_id": "58d3cef8c70a540951d0fba5"
+	}, {
+		"phone": 9710523821,
+		"name": "Abiram Vyas",
+		"hackerEarthId": "abiram.vyas@gmail.com",
+		"_id": "58d3cf21c70a540951d0fba6"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3d4b3c70a540951d0fbae",
+	"authKey": "a985720f8e7c2aef7247cf1d3335d24b",
+	"teamId": "tanmay_indian",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9830108862,
+		"name": "Tanmay Bhartiya",
+		"hackerEarthId": "bhartiyatk@gmail.com",
+		"_id": "58d3d4b3c70a540951d0fbaf"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3d759c70a540951d0fbb3",
+	"authKey": "12a7fecc988be2f0e68fa9f41fcca47f",
+	"teamId": "RAJNIKANT",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9652004671,
+		"name": "Bhanu Kiran Reddy",
+		"hackerEarthId": "bhanukiran472@gmail.com",
+		"_id": "58d3d759c70a540951d0fbb4"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d28194782115b994576279",
+	"authKey": "adfff25a705027431d3866371e973959",
+	"teamId": "mihir",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d3d874c70a540951d0fbb7",
+		"number": 7871066037,
+		"status": "true",
+		"tid": "8079023290"
+	}],
+	"zone": {
+		"university": "srm university vadapalni campus",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 7871066037,
+		"name": "mihir khandelwal",
+		"hackerEarthId": "mihirkhandelwal36@gmail.com",
+		"_id": "58d28194782115b99457627a"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3da46c70a540951d0fbbc",
+	"authKey": "7ecda61e1b2cd99f8d3df928994abde8",
+	"teamId": "coder_raze",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 7550168724,
+		"name": "Nikil",
+		"hackerEarthId": "nikilalakunta09031999@gmail.com",
+		"_id": "58d3da46c70a540951d0fbbd"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d21fd5782115b994576207",
+	"authKey": "78f06c9e972ccb82302422ff61eb085a",
+	"teamId": "Psyc_squad",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 8758608200,
+		"name": "Rushan Mukherjee",
+		"hackerEarthId": "rushanmukherjee@gmail.com",
+		"_id": "58d21fd5782115b994576208"
+	}, {
+		"phone": 7358260316,
+		"name": "Tanmoy Das",
+		"hackerEarthId": "tammydaxx2015@gmail.com",
+		"_id": "58d3da5fc70a540951d0fbbe"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d17636782115b9945761fa",
+	"authKey": "5008cf5b9c5be2debbee27bf88478e7d",
+	"teamId": "crusaders",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d3db51c70a540951d0fbc1",
+		"number": 9419195659,
+		"status": "true",
+		"tid": "8079587790"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9419195659,
+		"name": "Shubam Gupta",
+		"hackerEarthId": "shubamsrmite@gmail.com",
+		"_id": "58d17636782115b9945761fb"
+	}, {
+		"_id": "58d21868782115b994576205",
+		"hackerEarthId": "kimothiaman@gmail.com",
+		"name": "Aman Kimothi",
+		"phone": 7708520851
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d27fac782115b994576277",
+	"authKey": "7ff8dc1a94de6b4f615b36e8f5440af6",
+	"teamId": "Red_hack",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3dc48c70a540951d0fbc2",
+		"number": 9790798364,
+		"status": "true",
+		"tid": "8079810070"
+	}],
+	"zone": {
+		"university": "Hindustan University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"_id": "58d27fac782115b994576278",
+		"hackerEarthId": "ankitbhanja79@gmail.com",
+		"name": "Ankit Bhanja",
+		"phone": 9437624270
+	}, {
+		"phone": 8678997403,
+		"name": "Aaditya Khandelwal",
+		"hackerEarthId": "aaditya610@gmail.com",
+		"_id": "58d28372782115b99457627d"
+	}, {
+		"phone": 7549334132,
+		"name": "Tafsirul haque naimi",
+		"hackerEarthId": "haqueahmer@gmail.com",
+		"_id": "58d2a625782115b9945762be"
+	}, {
+		"phone": 9003378036,
+		"name": "Manoj Kumar",
+		"hackerEarthId": "jonam1997@gmail.com",
+		"_id": "58d3cae0c70a540951d0fba0"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d291ce782115b994576298",
+	"authKey": "b0158cb61266d7a55a9a9935e43363d9",
+	"teamId": "Code_Worms",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d3db47c70a540951d0fbc0",
+		"number": 7418250889,
+		"status": "failed",
+		"tid": "8079594886"
+	}, {
+		"_id": "58d3dd67c70a540951d0fbc4",
+		"number": 9962637638,
+		"status": "true",
+		"tid": "8079594886"
+	}],
+	"zone": {
+		"university": "SRM University,Vadapalani Campus",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9543950436,
+		"name": "KU.Vijaay",
+		"hackerEarthId": "vijaaykumaaresan@gmail.com",
+		"_id": "58d291ce782115b994576299"
+	}, {
+		"phone": 7418250889,
+		"name": "N.Mahesh",
+		"hackerEarthId": "mrak4123@gmail.com",
+		"_id": "58d293a7782115b99457629f"
+	}, {
+		"phone": 8939227284,
+		"name": "Arjun Aravind",
+		"hackerEarthId": "arjun_aravind98@yahoo.in",
+		"_id": "58d3d778c70a540951d0fbb5"
+	}]
+}, {
+	"__v": 5,
+	"_id": "58d2dc9fc70a540951d0fb49",
+	"authKey": "d011f564d7d1b682c29301a9c307eb12",
+	"teamId": "bot_psa",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d3d325c70a540951d0fbac",
+		"number": 8811994307,
+		"status": "true",
+		"tid": "8077033094"
+	}, {
+		"_id": "58d3e126c70a540951d0fbc9",
+		"number": 9789830164,
+		"status": "true",
+		"tid": "8080440614"
+	}, {
+		"_id": "58d3e289c70a540951d0fbcc",
+		"number": 8811994307,
+		"status": "true",
+		"tid": "8077068358"
+	}],
+	"zone": {
+		"university": "SRM University, Ramapuram",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9789830164,
+		"name": "Priyank Patel",
+		"hackerEarthId": "pspbot7@gmail.com",
+		"_id": "58d2dc9fc70a540951d0fb4a"
+	}, {
+		"phone": 8811994307,
+		"name": "Sumit Saikia",
+		"hackerEarthId": "punk.suman422@gmail.com",
+		"_id": "58d3a958c70a540951d0fb83"
+	}, {
+		"phone": 7903286059,
+		"name": "Anand Kumar",
+		"hackerEarthId": "kr.anand.srm@gmail.com",
+		"_id": "58d3b1ddc70a540951d0fb86"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d3d1e0c70a540951d0fba9",
+	"authKey": "9bd18490cb75782c4a0e16ae4346d360",
+	"teamId": "Aeybee",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d3e506c70a540951d0fbd0",
+		"number": 9087860771,
+		"status": "true",
+		"tid": "8081506054"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9087860938,
+		"name": "K.N Abhishika",
+		"hackerEarthId": "abhishikakn@gmail.com",
+		"_id": "58d3d1e0c70a540951d0fbaa"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3e635c70a540951d0fbd1",
+	"authKey": "69c72e89573b1a5d999f0dd44bc9918b",
+	"teamId": "myteam",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9566213986,
+		"name": "Vatsal Khandelwal",
+		"hackerEarthId": "vatsalkhandelwal.96@gmail.com",
+		"_id": "58d3e635c70a540951d0fbd2"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d3e71ac70a540951d0fbd3",
+	"authKey": "1fa9dea62a1454a92678a62fb7bc52a6",
+	"teamId": "DEEPANSHU",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM university",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 8939434159,
+		"name": "Deepanshu maini",
+		"hackerEarthId": "mainidishu@gmail.com",
+		"_id": "58d3e71ac70a540951d0fbd4"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d3e77cc70a540951d0fbd5",
+	"authKey": "90afe646a890fe8000678a3bc98d5347",
+	"teamId": "Code_Breakers",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM UNIVERSITY",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 7045827188,
+		"name": "Venkatesh Naidu",
+		"hackerEarthId": "venkateshnaidu_na@srmuniv.edu.in",
+		"_id": "58d3e77cc70a540951d0fbd6"
+	}, {
+		"phone": 9566193088,
+		"name": "Shivam Sharma",
+		"hackerEarthId": "sharmashivamlko47@gmail.com",
+		"_id": "58d3e802c70a540951d0fbd7"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d29dc4782115b9945762b7",
+	"authKey": "0a4ffd57367a636f52adbd8a34f66aee",
+	"teamId": "spectra",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9619026783,
+		"name": "Tanaya Joshi",
+		"hackerEarthId": "tanayaj1998@gmail.com",
+		"_id": "58d29dc4782115b9945762b8"
+	}, {
+		"phone": 9687603054,
+		"name": "Neeha Rathna Janjanam",
+		"hackerEarthId": "samy1541998@gmail.com",
+		"_id": "58d3a52cc70a540951d0fb80"
+	}, {
+		"phone": 9897733043,
+		"name": "vaibhav somani",
+		"hackerEarthId": "vsomani2@gmail.com",
+		"_id": "58d3b877c70a540951d0fb90"
+	}, {
+		"phone": 8016560289,
+		"name": "proma mukherjee",
+		"hackerEarthId": "mailtoproma@gmail.com",
+		"_id": "58d3e9d6c70a540951d0fbd8"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d3d540c70a540951d0fbb0",
+	"authKey": "464b5ae96fdda27b3cdb6f2713db07e4",
+	"teamId": "Byte_Me",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3ef22c70a540951d0fbde",
+		"number": 9791144422,
+		"status": "true",
+		"tid": "8083353806"
+	}],
+	"zone": {
+		"university": "Sri Venkateswara College of Engineering",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9444956139,
+		"name": "Aditi Prakash",
+		"hackerEarthId": "ap2205@gmail.com",
+		"_id": "58d3d540c70a540951d0fbb1"
+	}, {
+		"phone": 9791144422,
+		"name": "Dipika Rajesh",
+		"hackerEarthId": "dipika.rajesh@gmail.com",
+		"_id": "58d3d58ec70a540951d0fbb2"
+	}, {
+		"phone": 9841341213,
+		"name": "Keshav Aditya RP",
+		"hackerEarthId": "keshavaditya26896@gmail.com",
+		"_id": "58d3ed64c70a540951d0fbd9"
+	}, {
+		"phone": 9884811772,
+		"name": "Bharat Goel",
+		"hackerEarthId": "bharatgoel36@gmail.com",
+		"_id": "58d3edb4c70a540951d0fbda"
+	}]
+}, {
+	"__v": 5,
+	"_id": "58d2a0b1782115b9945762b9",
+	"authKey": "c7cdaa3c738086a8ebd31fcf493da38f",
+	"teamId": "Code_preneurs",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3ef1fc70a540951d0fbdd",
+		"number": 9150559913,
+		"status": "failed",
+		"tid": "8083229314"
+	}, {
+		"_id": "58d4007ac70a540951d0fbf2",
+		"number": 9150559913,
+		"status": "true",
+		"tid": "8083230694"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8925126118,
+		"name": "Dhanashekaran.V",
+		"hackerEarthId": "vsdhans@gmail.com",
+		"_id": "58d2a0b1782115b9945762ba"
+	}, {
+		"phone": 7358329858,
+		"name": "Srivastavan Iyer",
+		"hackerEarthId": "srivastavaniyer@gmail.com",
+		"_id": "58d2a55c782115b9945762bd"
+	}, {
+		"_id": "58d2a7f7782115b9945762c5",
+		"hackerEarthId": "durbha.neelesh99@ymail.com",
+		"name": "Neelesh durbha",
+		"phone": 9940444918
+	}, {
+		"phone": 8056050548,
+		"name": "G.R Rikhil",
+		"hackerEarthId": "richrikhil@gmail.com",
+		"_id": "58d3b7dcc70a540951d0fb8f"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58cc2c9e782115b9945761b6",
+	"authKey": "429decdffcf4bf9a244cad85ffcfc6ba",
+	"teamId": "Poseidon",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9871113780,
+		"name": "Varun V Narayanan",
+		"hackerEarthId": "varunv997@gmail.com",
+		"_id": "58cc2c9e782115b9945761b7"
+	}, {
+		"phone": 9962260825,
+		"name": "Sankalp Sanand",
+		"hackerEarthId": "sankalp.sanand@gmail.com",
+		"_id": "58d3f27bc70a540951d0fbe6"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d3f008c70a540951d0fbe1",
+	"authKey": "ad9f325eb8fd67b0b7f89a7cdf21376a",
+	"teamId": "codelovers151619",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d3f57cc70a540951d0fbea",
+		"number": 9546286260,
+		"status": "true",
+		"tid": "8084409490"
+	}],
+	"zone": {
+		"university": "srm university,ramapuram campus",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9677260470,
+		"name": "Saurav singh",
+		"hackerEarthId": "bittusaurav333@gmail.com",
+		"_id": "58d3f008c70a540951d0fbe2"
+	}, {
+		"phone": 9841815398,
+		"name": "Reuma Akhtar",
+		"hackerEarthId": "reumaakhtar@gmail.com",
+		"_id": "58d3f0efc70a540951d0fbe4"
+	}, {
+		"phone": 7358090509,
+		"name": "Tarushi Dhiman",
+		"hackerEarthId": "tarushi.dhiman@gmail.com",
+		"_id": "58d3f164c70a540951d0fbe5"
+	}]
+}, {
+	"__v": 5,
+	"_id": "58d28b62782115b99457628a",
+	"authKey": "ea4bb2037b4cbd14e66ca6f2bfd49c30",
+	"teamId": "Lazy_Tomato_Studios",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3f0ecc70a540951d0fbe3",
+		"number": 9962983333,
+		"status": "failed",
+		"tid": "8083568118"
+	}, {
+		"_id": "58d3fa4dc70a540951d0fbed",
+		"number": 9962983333,
+		"status": "true",
+		"tid": "8083568822"
+	}],
+	"zone": {
+		"university": "Sri Venkateswara College Of Engineering",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 8122886537,
+		"name": "Akhil Menon",
+		"hackerEarthId": "menonakhil90@gmail.com",
+		"_id": "58d28b62782115b99457628b"
+	}, {
+		"phone": 9840876582,
+		"name": "Adarsh Manickam",
+		"hackerEarthId": "adarshm97@outlook.com",
+		"_id": "58d2912c782115b994576293"
+	}, {
+		"phone": 9962754468,
+		"name": "Akash Saravanan",
+		"hackerEarthId": "akashsara69@gmail.com",
+		"_id": "58d291f2782115b99457629a"
+	}, {
+		"phone": 9962983333,
+		"name": "Jashaul D",
+		"hackerEarthId": "jashaulkumar@yahoo.com",
+		"_id": "58d29255782115b99457629b"
+	}]
+}, {
+	"__v": 6,
+	"_id": "58d3d9fdc70a540951d0fbba",
+	"authKey": "57e628ad50acebb85e12d59a35f33574",
+	"teamId": "Code_warriors",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3e2d3c70a540951d0fbcd",
+		"number": 9790451639,
+		"status": "true",
+		"tid": "8081083238"
+	}, {
+		"_id": "58d3fb3dc70a540951d0fbee",
+		"number": 8052234187,
+		"status": "failed",
+		"tid": "8052234187"
+	}, {
+		"_id": "58d3fd2ec70a540951d0fbf0",
+		"number": 8052234187,
+		"status": "true",
+		"tid": "8085257766"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 7708119039,
+		"name": "Sayan Bhattacharya",
+		"hackerEarthId": "sayanbhattacharya06@gmail.com",
+		"_id": "58d3d9fdc70a540951d0fbbb"
+	}, {
+		"phone": 9790451639,
+		"name": "Ishan Singh",
+		"hackerEarthId": "ishanalways@gmail.com",
+		"_id": "58d3e10cc70a540951d0fbc8"
+	}, {
+		"phone": 9176060461,
+		"name": "Shreepal Shekhawat",
+		"hackerEarthId": "elaserph17@gmail.com",
+		"_id": "58d3e385c70a540951d0fbce"
+	}, {
+		"phone": 8052234187,
+		"name": "Anant Srivastava",
+		"hackerEarthId": "anant.srivastava1508@gmail.com",
+		"_id": "58d3fa10c70a540951d0fbec"
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d28a7d782115b994576288",
+	"authKey": "b3101624de6a392f36a2fc11d2279101",
+	"teamId": "GPREC",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3fb8cc70a540951d0fbef",
+		"number": 9885964080,
+		"status": "true",
+		"tid": "8085302398"
+	}],
+	"zone": {
+		"university": "G.Pulla Reddy Engineering College",
+		"state": "Andhra Pradesh"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 7995487338,
+		"name": "M.Sindhu",
+		"hackerEarthId": "sindhu0598@gmail.com",
+		"_id": "58d28a7d782115b994576289"
+	}, {
+		"phone": 9701868146,
+		"name": "K.Madhuri",
+		"hackerEarthId": "reddymadhuri035@gmail.com",
+		"_id": "58d2b217782115b9945762d3"
+	}, {
+		"phone": 9959026881,
+		"name": "Yerram Sai Prakash Reddy",
+		"hackerEarthId": "saiprakash174@gmail.com",
+		"_id": "58d3f339c70a540951d0fbe7"
+	}, {
+		"_id": "58d3f737c70a540951d0fbeb",
+		"hackerEarthId": "pavanreddy0611@gmail.com",
+		"name": "Nagireddy Pavan Kumar Reddy",
+		"phone": 8639043285
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d3c9dec70a540951d0fb9e",
+	"authKey": "6390f3468c73c52ecbc929910322a99c",
+	"teamId": "CODEWORMS_1521",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d4045bc70a540951d0fbf3",
+		"number": 9677209132,
+		"status": "failed",
+		"tid": "8082193794"
+	}, {
+		"_id": "58d40502c70a540951d0fbf4",
+		"number": 9677209132,
+		"status": "true",
+		"tid": "8082193794"
+	}],
+	"zone": {
+		"university": "SRM UNIVERSITY -VADAPALANI CAMPUS",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9884269304,
+		"name": "R.DIVYA",
+		"hackerEarthId": "divyarangarajan1512@gmail.com",
+		"_id": "58d3c9dec70a540951d0fb9f"
+	}, {
+		"phone": 9789874720,
+		"name": "S.ANANYA",
+		"hackerEarthId": "ananyasundar21@gmail.com",
+		"_id": "58d3cb49c70a540951d0fba1"
+	}, {
+		"_id": "58d3dd51c70a540951d0fbc3",
+		"hackerEarthId": "sonugokulkumar@gmail.com",
+		"name": "GOKUL KUMAR K",
+		"phone": 8681972247
+	}]
+}, {
+	"__v": 4,
+	"_id": "58d39e52c70a540951d0fb77",
+	"authKey": "2c45b78bd873cbe6f0563c0a1b4b0550",
+	"teamId": "AnonOps",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d47ff4d4912d9280881efb",
+		"number": 8667568592,
+		"status": "failed",
+		"tid": "1174088149"
+	}, {
+		"_id": "58d4d3b3d4912d9280881f0d",
+		"number": 8667568592,
+		"status": "true",
+		"tid": "8090621074"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9884541449,
+		"name": "Rahul H Bhatia",
+		"hackerEarthId": "sergiokunagureo@gmail.com",
+		"_id": "58d39e52c70a540951d0fb78"
+	}, {
+		"phone": 8667568592,
+		"name": "Arunachaleshwar",
+		"hackerEarthId": "killermachine7@icloud.com",
+		"_id": "58d39eafc70a540951d0fb79"
+	}, {
+		"phone": 8939537998,
+		"name": "Shri Nithinn",
+		"hackerEarthId": "msnithinncool@gmail.com",
+		"_id": "58d407f2c70a540951d0fbf5"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d3f379c70a540951d0fbe8",
+	"authKey": "39ab289652afb62b6d8d8d52f2e01aad",
+	"teamId": "Mutants",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "Sri Venkateshwara college of engineering",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9092400604,
+		"name": "Surya Prakash",
+		"hackerEarthId": "rajeshsvce10@gmail.com",
+		"_id": "58d3f379c70a540951d0fbe9"
+	}, {
+		"phone": 8072904715,
+		"name": "Rajesh",
+		"hackerEarthId": "mspsuryaprakash1996@gmail.com",
+		"_id": "58d40b0bc70a540951d0fbf6"
+	}, {
+		"phone": 8939095774,
+		"name": "Tamizh",
+		"hackerEarthId": "tamizhad@gmail.com",
+		"_id": "58d40f9cc70a540951d0fbf7"
+	}, {
+		"phone": 9003714575,
+		"name": "Sugimar",
+		"hackerEarthId": "Mbsugumar123@gmail.com",
+		"_id": "58d40ffdc70a540951d0fbf8"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d37093c70a540951d0fb5d",
+	"authKey": "118dbe9e7db0b055eb17cf2ef998f71d",
+	"teamId": "anonymous",
+	"user_count": 4,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University KTR",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 600
+	},
+	"users": [{
+		"phone": 9674085006,
+		"name": "Shammo Ghosal",
+		"hackerEarthId": "shammo.ghosal@outlook.com",
+		"_id": "58d37093c70a540951d0fb5e"
+	}, {
+		"phone": 7278312727,
+		"name": "Anubhav Bera",
+		"hackerEarthId": "anubhavbera_diganta@srmuniv.edu.in",
+		"_id": "58d4179ec70a540951d0fbfb"
+	}, {
+		"phone": 9163626836,
+		"name": "Partha Pratim Nath",
+		"hackerEarthId": "parthapratimnath_p@srmuniv.edu.in",
+		"_id": "58d41864c70a540951d0fbfc"
+	}, {
+		"phone": 7550167182,
+		"name": "Abhinaba Dutta Gupta",
+		"hackerEarthId": "abhinaba_abhijit@srmuniv.edu.in",
+		"_id": "58d418d4c70a540951d0fbfd"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d36b19c70a540951d0fb59",
+	"authKey": "a19639ac49452cc277b9f47ef75da904",
+	"teamId": "BlackFly",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d3761cc70a540951d0fb61",
+		"number": 8447750105,
+		"status": "true",
+		"tid": "8061458110"
+	}, {
+		"_id": "58d4aa36d4912d9280881efd",
+		"number": 8447750105,
+		"status": "true",
+		"tid": "8095968630"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 8447750105,
+		"name": "Abhay S V",
+		"hackerEarthId": "monuabhaysv@hackermail.com",
+		"_id": "58d36b19c70a540951d0fb5a"
+	}, {
+		"phone": 9400710488,
+		"name": "vipin k v",
+		"hackerEarthId": "thinkervipin@gmail.com",
+		"_id": "58d4a991d4912d9280881efc"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58c91dd51b6d05a80bce2e29",
+	"authKey": "728f86490be2d1ce463ad0e0d31e6e90",
+	"teamId": "icaniwill",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58cc2bc2782115b9945761b4",
+		"number": 9176058687,
+		"status": "failed",
+		"tid": "7867116834"
+	}, {
+		"_id": "58cc2c1a782115b9945761b5",
+		"number": 9176058687,
+		"status": "true",
+		"tid": "7867116834"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9176058687,
+		"name": "Avantika Sarkar",
+		"hackerEarthId": "avantikasarkar18@gmail.com",
+		"_id": "58c91dd51b6d05a80bce2e2a"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d4be36d4912d9280881f00",
+	"authKey": "9a84b30a9380c08de0619fd7214ebb42",
+	"teamId": "n_squared",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d4bf36d4912d9280881f04",
+		"number": 9717212344,
+		"status": "true",
+		"tid": "8099260754"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9884210199,
+		"name": "Nikita Gupta",
+		"hackerEarthId": "nikitagupta25@outlook.com",
+		"_id": "58d4be36d4912d9280881f01"
+	}, {
+		"phone": 9686562839,
+		"name": "Nupur Tandon",
+		"hackerEarthId": "nupstan@gmail.com",
+		"_id": "58d4becdd4912d9280881f03"
+	}]
+}, {
+	"__v": 7,
+	"_id": "58d4b6d6d4912d9280881efe",
+	"authKey": "4b6842ac2edd1be0d5c6e371c9397657",
+	"teamId": "First_try",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d4c3b8d4912d9280881f05",
+		"number": 7296923397,
+		"status": "true",
+		"tid": "id8098691498"
+	}, {
+		"_id": "58d4c3f4d4912d9280881f06",
+		"number": 7296923397,
+		"status": "true",
+		"tid": "id8099286546"
+	}, {
+		"_id": "58d4cdc1d4912d9280881f08",
+		"number": 7296923397,
+		"status": "failed",
+		"tid": "id8101340266"
+	}, {
+		"_id": "58d4cdc1d4912d9280881f09",
+		"number": 7296923397,
+		"status": "failed",
+		"tid": "id8101340266"
+	}, {
+		"_id": "58d4cf47d4912d9280881f0a",
+		"number": 7296923397,
+		"status": "true",
+		"tid": "id8101557962"
+	}],
+	"zone": {
+		"university": "srm vadapalani",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9950203217,
+		"name": "tarun kumar sharma",
+		"hackerEarthId": "tarunsharma2234@gmail.com",
+		"_id": "58d4b6d6d4912d9280881eff"
+	}, {
+		"phone": 9043953372,
+		"name": "Animesh Banerjee",
+		"hackerEarthId": "stant581@gmail.com",
+		"_id": "58d4be49d4912d9280881f02"
+	}, {
+		"phone": 7550272976,
+		"name": "MANMOHAN SINGH",
+		"hackerEarthId": "thedexterinc@gmail.com",
+		"_id": "58d4cd71d4912d9280881f07"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d4d103d4912d9280881f0b",
+	"authKey": "b8ee0f00112d52547930d620d91901c7",
+	"teamId": "codedbyLakshmi",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d55182d4912d9280881f25",
+		"number": 9840993800,
+		"status": "true",
+		"tid": "8127363450"
+	}],
+	"zone": {
+		"university": "SRM Univeristy",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9840993800,
+		"name": "Lakshmi Anand",
+		"hackerEarthId": "codedbylakshmi@gmail.com",
+		"_id": "58d4d103d4912d9280881f0c"
+	}, {
+		"phone": 9025410408,
+		"name": "Ankit Khare",
+		"hackerEarthId": "ankitkhare12345@yahoo.com",
+		"_id": "58d4d592d4912d9280881f0e"
+	}, {
+		"phone": 8754537280,
+		"name": "Aditya Shankar Narayanan",
+		"hackerEarthId": "saditya_rs@srmuniv.edu.in",
+		"_id": "58d4d68dd4912d9280881f0f"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d4d8aad4912d9280881f10",
+	"authKey": "48d9c2edcc949108951dfa6914141c96",
+	"teamId": "Spade",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "Srm University Ramapuram",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 7352846505,
+		"name": "Anshu Rathour",
+		"hackerEarthId": "anshurathor8@gmail.com",
+		"_id": "58d4d8aad4912d9280881f11"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d4fb30d4912d9280881f15",
+	"authKey": "436e3a4503b357148393897d5320dd15",
+	"teamId": "SRM_dora",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d4fb9ed4912d9280881f19",
+		"number": 7982068276,
+		"status": "true",
+		"tid": "8108006062"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9619180009,
+		"name": "Shivang Kaul",
+		"hackerEarthId": "shangkaul@gmail.com",
+		"_id": "58d4fb30d4912d9280881f16"
+	}, {
+		"phone": 9087899538,
+		"name": "Yash Aggarwal",
+		"hackerEarthId": "yaggarwal58@gmail.com",
+		"_id": "58d4fb50d4912d9280881f17"
+	}, {
+		"phone": 7016575610,
+		"name": "Sahil Qureshi",
+		"hackerEarthId": "sahil99.qur@gmail.com",
+		"_id": "58d4fb66d4912d9280881f18"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d507bdd4912d9280881f1a",
+	"authKey": "3b7d9506a6ecdce09cd11db132395115",
+	"teamId": "nightscholar",
+	"user_count": 1,
+	"transaction": [{
+		"_id": "58d50828d4912d9280881f1c",
+		"number": 9461432193,
+		"status": "true",
+		"tid": "8109895942"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 150
+	},
+	"users": [{
+		"phone": 9884202372,
+		"name": "Rhitik Khanna",
+		"hackerEarthId": "khanna.rhitik@yahoo.in",
+		"_id": "58d507bdd4912d9280881f1b"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d51bccd4912d9280881f1d",
+	"authKey": "8db731ab4b83ff9c4b129d94159b0815",
+	"teamId": "harrypotter",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "srm university ramapuram",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9884483878,
+		"name": "HARITHA",
+		"hackerEarthId": "haritha.kishore2@gmail.com",
+		"_id": "58d51bccd4912d9280881f1e"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d25245782115b994576235",
+	"authKey": "4396a09684e74fbb7caf3346ea3cd36b",
+	"teamId": "bongs",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d546d5d4912d9280881f24",
+		"number": 9331575410,
+		"status": "true",
+		"tid": "8124995438"
+	}],
+	"zone": {
+		"university": "SRM (KTR)",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 9930814229,
+		"name": "Abhisek Mukherjee",
+		"hackerEarthId": "mukherjeeabhisek03@gmail.com",
+		"_id": "58d25245782115b994576236"
+	}, {
+		"phone": 9962799549,
+		"name": "Utsav Nandi",
+		"hackerEarthId": "utsav.nandi@gmail.com",
+		"_id": "58d26082782115b994576245"
+	}, {
+		"phone": 8148233353,
+		"name": "ABHIJIT MONDAL",
+		"hackerEarthId": "abhijitmondal53@gmail.com",
+		"_id": "58d545f6d4912d9280881f23"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d567bed4912d9280881f2a",
+	"authKey": "6683699fc07c134ca4dfcc4e41d6af98",
+	"teamId": "Enigma",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University,Katankulathur chennai.",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9176384308,
+		"name": "Himanshu Bansal",
+		"hackerEarthId": "himanshu.bansal733@gmail.com",
+		"_id": "58d567bed4912d9280881f2b"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d5ff28d4912d9280881f2c",
+	"authKey": "504d0bae78af9f8d748c28e5e30b8667",
+	"teamId": "Deadpool",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9677196900,
+		"name": "LEEL VINOD",
+		"hackerEarthId": "leelvinod20@gmail.com",
+		"_id": "58d5ff28d4912d9280881f2d"
+	}]
+}, {
+	"__v": 5,
+	"_id": "58d3d11ec70a540951d0fba7",
+	"authKey": "905c59ad4dffeb8315aa9f8e4450f682",
+	"teamId": "Hack_A_Doodle_Doo",
+	"user_count": 4,
+	"transaction": [{
+		"_id": "58d3d828c70a540951d0fbb6",
+		"number": 9941455530,
+		"status": "true",
+		"tid": "8078913506"
+	}, {
+		"_id": "58d674202ff8487433ecb8ac",
+		"number": 8056178453,
+		"status": "true",
+		"tid": "8163902262"
+	}],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 600,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9941455530,
+		"name": "Allen Christopher",
+		"hackerEarthId": "allenchristo@gmail.com",
+		"_id": "58d3d11ec70a540951d0fba8"
+	}, {
+		"phone": 9444985805,
+		"name": "Badri Mohan",
+		"hackerEarthId": "thalabadri.97@gmail.com",
+		"_id": "58d3d3f5c70a540951d0fbad"
+	}, {
+		"phone": 9790897866,
+		"name": "Deepika Ramachandran",
+		"hackerEarthId": "deepikaramachandran03@yahoo.in",
+		"_id": "58d3e17ac70a540951d0fbca"
+	}, {
+		"phone": 8056178453,
+		"name": "Rishi S",
+		"hackerEarthId": "transphotonic@gmail.com",
+		"_id": "58d3e1b1c70a540951d0fbcb"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d684452ff8487433ecb8ad",
+	"authKey": "f79dcc7ec85a73b4fcaa5aff8a4fac91",
+	"teamId": "ME_AND_ME",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9444969969,
+		"name": "SHARMILA",
+		"hackerEarthId": "SHARMILAJOYOUSCOMFORTER@GMAIL.COM",
+		"_id": "58d684452ff8487433ecb8ae"
+	}]
+}, {
+	"__v": 0,
+	"_id": "58d6855f2ff8487433ecb8af",
+	"authKey": "dad4dcf1c0db781dfd0a6ab0319941ed",
+	"teamId": "MYTEAM",
+	"user_count": 1,
+	"transaction": [],
+	"zone": {
+		"university": "G.PULLAREDDY ENGINEERING COLLEGE",
+		"state": "Andhra Pradesh"
+	},
+	"payment": {
+		"down": 150,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9110362833,
+		"name": "B.Naveen kumar reddy",
+		"hackerEarthId": "budalanaveenkumarreddy@gmail.com",
+		"_id": "58d6855f2ff8487433ecb8b0"
+	}]
+}, {
+	"__v": 2,
+	"_id": "58d68a322ff8487433ecb8b3",
+	"authKey": "49dd701e79b5635bbff900e0454f10fa",
+	"teamId": "BruteForceTypeform",
+	"user_count": 2,
+	"transaction": [{
+		"_id": "58d6bf922ff8487433ecb8b9",
+		"number": 9660313400,
+		"status": "true",
+		"tid": "8177349618"
+	}],
+	"zone": {
+		"university": "BMS College of Engineering",
+		"state": "Karnataka"
+	},
+	"payment": {
+		"down": 300,
+		"up": 300
+	},
+	"users": [{
+		"phone": 9164063610,
+		"name": "Saurabh Sunil Chheda",
+		"hackerEarthId": "saurabh.s.chheda@outlook.com",
+		"_id": "58d68a322ff8487433ecb8b4"
+	}, {
+		"phone": 9660313400,
+		"name": "Prashant Agarwal",
+		"hackerEarthId": "prashantagarwal@live.in",
+		"_id": "58d68a932ff8487433ecb8b6"
+	}]
+}, {
+	"__v": 3,
+	"_id": "58d688e22ff8487433ecb8b1",
+	"authKey": "6d7d0b7f4b416d9a8cf466866d1a86cb",
+	"teamId": "CodeHex",
+	"user_count": 3,
+	"transaction": [{
+		"_id": "58d691072ff8487433ecb8b8",
+		"number": 8802304134,
+		"status": "true",
+		"tid": "8170595854"
+	}],
+	"zone": {
+		"university": "SRM University, vadapalani",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 450,
+		"up": 450
+	},
+	"users": [{
+		"phone": 8802304134,
+		"name": "Vidhant Matta",
+		"hackerEarthId": "mattavidhant@gmail.com",
+		"_id": "58d688e22ff8487433ecb8b2"
+	}, {
+		"phone": 7800346083,
+		"name": "RL Rahul Krishnan",
+		"hackerEarthId": "rahulkrishnan221@gmail.com",
+		"_id": "58d68a332ff8487433ecb8b5"
+	}, {
+		"phone": 8667016658,
+		"name": "Arvind Bedi",
+		"hackerEarthId": "abarvindbedi@gmail.com",
+		"_id": "58d68d132ff8487433ecb8b7"
+	}]
+}, {
+	"__v": 1,
+	"_id": "58d75bb62ff8487433ecb8ba",
+	"authKey": "bc86891dcbf41a1e2ca26ab898a4dc97",
+	"teamId": "Botnet",
+	"user_count": 2,
+	"transaction": [],
+	"zone": {
+		"university": "SRM University",
+		"state": "Tamil Nadu"
+	},
+	"payment": {
+		"down": 300,
+		"up": 0
+	},
+	"users": [{
+		"phone": 9791486003,
+		"name": "AMAN ARYAN",
+		"hackerEarthId": "mail@amanaryan.com",
+		"_id": "58d75bb62ff8487433ecb8bb"
+	}, {
+		"phone": 9176046531,
+		"name": "Sayan Das",
+		"hackerEarthId": "poke19962008@gmail.com",
+		"_id": "58d75d0a2ff8487433ecb8be"
+	}]
+}]
